@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Aug 9, 2026 at 08_26_26 PM" src="https://github.com/user-attachments/assets/252a692a-7041-4b45-8399-62f26ce72c17" />
+<img width="1692" height="930" alt="ChatGPT Image Aug 9, 2026 at 08_31_53 PM" src="https://github.com/user-attachments/assets/7bcf80a1-811d-4a51-89e5-73c9bc89db49" />
 
 
 Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in machine learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical challenges.
