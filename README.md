@@ -2,147 +2,151 @@
 
 # SAKTHI PRANAASH V
 
-### SOFTWARE ENGINEER · AI/ML ENGINEER
+### SOFTWARE ENGINEER · AI/ML ENGINEER · SYSTEMS THINKER
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=700&color=8A2BE2&center=true&vCenter=true&width=700&lines=Engineer+by+mindset.;Builder+by+nature.;Always+learning.;Always+building." />
-
-<br>
-
-<a href="mailto:sakthipranaash31@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/pranaash31">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/sakthipranaash31/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## About Me
-
-I’m a **Software Engineer and AI/ML enthusiast** pursuing a B.Tech in Artificial Intelligence & Data Science, with hands-on experience building backend systems, intelligent applications, NLP pipelines, and automation solutions.
-
-I enjoy taking complex problems, understanding them deeply, and transforming them into practical systems. My experience spans **software engineering, machine learning, NLP, Generative AI, secure AI applications, and intelligent automation**, supported by a strong foundation in Data Structures & Algorithms and core computer science.
-
-I believe great engineering is not just about writing code — it is about **understanding the problem, designing with purpose, and continuously building better solutions.**
-
-> **Think deeply. Build deliberately. Keep evolving.**
-
----
-
-## Professional Experience
-
-### Artificial Intelligence Engineer — Appin Technologies
-
-Built an automated job intelligence pipeline aggregating opportunities from **10+ recruitment platforms**, reducing manual job discovery effort by **70%**. Developed an NLP engine using Sentence Transformers to extract technical skills and generate personalized learning recommendations.
-
-### Machine Learning Engineer — Gradtwin
-
-Developed an NLP security pipeline using **Sentence Transformers and Scikit-learn** to detect prompt injection and jailbreak attacks. Built a Flask inference API with confidence scoring for secure LLM prompt validation with inference under **100 ms**.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css" />
-
-<br><br>
-
-### Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=react,flask,spring,docker,git,github,postman,linux" />
-
-<br><br>
-
-### AI · ML · Data
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2400&pause=700&color=8A2BE2&center=true&vCenter=true&width=700&lines=I+build+systems%2C+not+just+features.;I+solve+problems%2C+not+just+tasks.;I+learn+by+building.;I+build+to+make+things+better." />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws,mongodb" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=vscode" />
+<a href="mailto:sakthipranaash31@gmail.com"><img src="https://img.shields.io/badge/CONTACT-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/pranaash31"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sakthipranaash31/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## Recognition
+## ABOUT
+
+I’m a **Software Engineer and AI/ML enthusiast** pursuing a B.Tech in Artificial Intelligence & Data Science, with hands-on experience across backend engineering, machine learning, NLP, Generative AI, and intelligent automation. I enjoy taking complex problems, understanding them deeply, and turning them into practical, reliable systems. My work spans secure LLM pipelines, NLP-based intelligence systems, backend applications, and system-level engineering.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON%202024-FINALIST-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MEDHA%202026-TOP%205-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TECHIE%20OF%20THE%20YEAR-2024-00C9A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEETCODE-400%2B%20PROBLEMS-FFA116?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HACKERRANK-SILVER%20%7C%20JAVA-00EA64?style=for-the-badge"/>
+### **UNDERSTAND DEEPLY · BUILD INTENTIONALLY · EVOLVE CONTINUOUSLY**
 
 </div>
 
 ---
 
-## Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-CERTIFIED%20DATA%20ENGINEER%20%7C%20ASSOCIATE-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ORACLE-GENERATIVE%20AI%20PROFESSIONAL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GOOGLE-CYBERSECURITY%20PROFESSIONAL-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-</div>
-
----
-
-## Leadership
-
-<div align="center">
+## EXPERIENCE
 
 <table>
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-### AWS CLOUD CLUB
+### APPIN TECHNOLOGIES
 
-**Cloud Champ**  
-2025 – 2026
+**Artificial Intelligence Engineer**
+
+Built an automated intelligence pipeline aggregating opportunities from **10+ recruitment platforms**, reducing manual job discovery by **70%**.
+
+Developed an NLP engine using **Sentence Transformers** for technical skill extraction and personalized learning recommendations.
 
 </td>
 
-<td width="80"></td>
+<td width="50%" valign="top">
 
-<td align="center">
+### GRADТWIN
 
-### UIPATH STUDENTS CLUB
+**Machine Learning Engineer**
 
-**Technical Lead**  
-2025 – 2026
+Developed an NLP security pipeline using **Sentence Transformers + Scikit-learn** to detect prompt injection and jailbreak attacks.
+
+Built a Flask inference API with confidence scoring for secure LLM prompt validation in **under 100 ms**.
 
 </td>
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+## TECHNOLOGY
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,flask,spring,mysql,mongodb,git,github,docker,postman,linux,aws&perline=8&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-00C9A7?style=for-the-badge"/>
+
 </div>
 
 ---
 
-## Currently
+<div align="center">
+
+## RECOGNITION
+
+<img src="https://img.shields.io/badge/SIH%202024-FINALIST-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MEDHA%202026-TOP%205-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TECHIE%20OF%20THE%20YEAR-2024-00C9A7?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LEETCODE-400%2B%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/HACKERRANK-SILVER%20JAVA-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+</div>
+
+---
 
 <div align="center">
 
-```text
-LEARN     →     BUILD     →     EXPERIMENT     →     IMPROVE
+## CERTIFICATIONS
+
+<img src="https://img.shields.io/badge/AWS-DATA%20ENGINEER%20ASSOCIATE-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORACLE-GENERATIVE%20AI%20PROFESSIONAL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE-CYBERSECURITY-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## LEADERSHIP
+
+**AWS CLOUD CLUB — CLOUD CHAMP · 2025–2026**
+
+**UIPATH STUDENTS CLUB — TECHNICAL LEAD · 2025–2026**
+
+</div>
+
+---
+
+<div align="center">
+
+## CURRENTLY
+
+`BUILDING` &nbsp; `LEARNING` &nbsp; `EXPERIMENTING` &nbsp; `IMPROVING`
+
+<br>
+
+**Exploring intelligent systems, strengthening engineering fundamentals, and building solutions that solve real problems.**
+
+</div>
+
+---
+
+<div align="center">
+
+## LET'S CONNECT
+
+I’m open to **internships, collaborations, challenging projects, and opportunities** where I can contribute, learn from strong engineers, and build meaningful technology.
+
+<br>
+
+<a href="mailto:sakthipranaash31@gmail.com"><img src="https://img.shields.io/badge/SAKTHIPRANAASH31%40GMAIL.COM-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+**BUILD · LEARN · EVOLVE**
+
+</div>
