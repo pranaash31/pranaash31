@@ -1,71 +1,110 @@
 <div align="center">
 
-  <!-- Glow Banner / Animated Typing -->
+  <!-- Header Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&random=false&width=600&height=50&lines=System.out.println(%22Hello%2C+World!%22);%F0%9F%90%8B;Sakthi+Pranaash+V;Cybersecurity+%7C+AI%2FML+%7C+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vcenter=true&width=650&height=50&lines=SAKTHI+PRANAASH+V;Cybersecurity+%E2%80%A2+Applied+AI+%E2%80%A2+Systems" alt="Header" />
   </a>
 
   <p align="center">
-    <b>Building resilient systems, intelligent models, and high-performance software.</b>
+    <i>Architecting resilient security paradigms, intelligent systems, and high-performance software.</i>
   </p>
 
-  <!-- Social Badges -->
+  <br/>
+
+  <!-- High-Class Minimalist Badges -->
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
   </a>
   <a href="https://github.com/pranaash31">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
   </a>
 
 </div>
 
 <br/>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ System Profile</h3>
-      <pre>
-┌──[ pranaash31@developer ]─[~]
-└──$ cat profile.json
-{
-  "name": "Sakthi Pranaash V",
-  "focus": ["Digital Forensics", "Applied AI/ML"],
-  "core_stack": ["C++", "Java", "Python", "AWS"],
-  "status": "Building scalable & secure tech"
-}
-      </pre>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Core Focus</h3>
-      <ul>
-        <li>🛡️ <b>Security & Forensics:</b> Sanitization algorithms, system-level safety, and data forensics.</li>
-        <li>🤖 <b>Applied AI:</b> NLP, computer vision, and machine learning pipelines.</li>
-        <li>☁️ <b>Cloud Infrastructure:</b> Distributed workflows, data pipelines, and AWS ecosystem.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 
-### 🛠️ Tech Stack Matrix
+### 🏛️ Executive Profile
+
+> *"Precision in logic, elegance in design, and security by default."*
+
+* 🛡️ **Digital Forensics & Security Systems** — Researching and implementing low-level data sanitization protocols, cryptographic verification, and system integrity frameworks.
+* 🤖 **Applied Artificial Intelligence** — Engineering ML pipelines, NLP workflows, and computer vision models for complex data environments.
+* ☁️ **Cloud Infrastructure & Architecture** — Designing scalable data pipelines and distributed systems using AWS cloud ecosystems.
+
+---
+
+### 💼 Technical Proficiency
+
+<br/>
 
 <div align="center">
 
-  <!-- Icons Stack -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,postgres,aws,docker,git,linux,vscode,github&perline=5" alt="Tech Stack" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Languages</b></td>
+      <td align="center" width="25%"><b>Artificial Intelligence</b></td>
+      <td align="center" width="25%"><b>Cloud & DevOps</b></td>
+      <td align="center" width="25%"><b>Core Focus</b></td>
+    </tr>
+    <tr>
+      <td align="center"><code>C++</code> • <code>Java</code><br/><code>Python</code> • <code>SQL</code></td>
+      <td align="center"><code>TensorFlow</code> • <code>PyTorch</code><br/><code>Computer Vision</code> • <code>NLP</code></td>
+      <td align="center"><code>AWS Infrastructure</code><br/><code>Docker</code> • <code>Linux</code> • <code>Git</code></td>
+      <td align="center"><code>Digital Forensics</code><br/><code>DSA</code> • <code>System Design</code></td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Clean Monochrome Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,postgres,aws,docker,git,linux,vscode,github&theme=dark" alt="Stack" />
 
 </div>
 
 <br/>
 
-```text
-[Languages]   ➜ C++  |  Java  |  Python  |  SQL  |  Bash
-[Domain]      ➜ Digital Forensics  |  AI & ML  |  Data Structures & Algorithms
-[Cloud/Tools] ➜ AWS (S3, Redshift, Glue)  |  Docker  |  Git  |  Linux
+---
+
+### 📈 Metrics & Activity
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img height="175" src="https://github-readme-stats.vercel.app/api?username=pranaash31&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=9f9f9f&bg_color=0d1117" alt="Stats" />
+      </td>
+      <td>
+        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaash31&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=0d1117&hide=html,css" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranaash31&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Streak" />
+
+</div>
+
+---
+
+### 🌌 Core Domain Showcase
+
+* **🔐 Cryptographic Sanitization & Forensics** — Secure drive wiping frameworks with tamper-proof digital certificates.
+* **🌱 Environmental & AI Intelligence** — Machine learning workflows for blue carbon registries and ocean restoration analysis.
+* **⚡ Enterprise Web Systems** — High-throughput full-stack web platforms engineered for production events.
+
+---
+
+<div align="center">
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=pranaash31&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+
+</div>
