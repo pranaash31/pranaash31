@@ -1,103 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1F1A,20:3D4A38,45:6B7F5E,70:8FA87E,100:ADB491&height=200&text=SAKTHI%20PRANAASH%20V&fontSize=44&fontColor=FFFFFF&fontAlignY=32&animation=twinkling&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=14&descColor=D4CCBA&descAlignY=55&stroke=ADB491&strokeWidth=1" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C4A265,50:D4B575,100:C4A265&height=3&section=header" width="100%"/>
+# SAKTHI PRANAASH V
 
-<a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=ADB491&center=true&vCenter=true&width=750&height=35&lines=%E2%96%B8+Think+deeply.;%E2%96%B8+Build+with+purpose.;%E2%96%B8+Learn+without+limits.;%E2%96%B8+Create+something+worth+remembering." alt="Typing SVG"/>
-</a>
+### SOFTWARE ENGINEER · AI/ML ENGINEER
 
-<img src="https://img.shields.io/badge/%E2%97%86_STATUS-OPEN_TO_OPPORTUNITIES-C4A265?style=flat-square&labelColor=1C1F1A"/>
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=pranaash31&color=ADB491&style=flat-square&label=VIEWS&labelColor=1C1F1A"/>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sakthipranaash31/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Sakthi_Pranaash/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1F1A,25:6B7F5E,50:ADB491,75:6B7F5E,100:1C1F1A&height=2&section=header" width="100%"/>
-
-<br><br>
-
-I think in systems. I build in iterations. **I improve relentlessly.**
-<br>Every problem is an architecture waiting to be discovered.
-
-*"The most interesting part of technology is not what exists — it's what can be built next."*
-
-<br>
-
-<img src="https://img.shields.io/badge/QUESTION-ADB491?style=flat-square&labelColor=1C1F1A"/>
-<sub> >> </sub>
-<img src="https://img.shields.io/badge/CREATE-8FA87E?style=flat-square&labelColor=1C1F1A"/>
-<sub> >> </sub>
-<img src="https://img.shields.io/badge/TEST-6B7F5E?style=flat-square&labelColor=1C1F1A"/>
-<sub> >> </sub>
-<img src="https://img.shields.io/badge/UNDERSTAND-C4A265?style=flat-square&labelColor=1C1F1A"/>
-<sub> >> </sub>
-<img src="https://img.shields.io/badge/BUILD_BETTER-ADB491?style=flat-square&labelColor=1C1F1A"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/01-THINK-ADB491?style=flat-square&labelColor=1C1F1A"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/02-BUILD-C4A265?style=flat-square&labelColor=1C1F1A"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/03-EVOLVE-8FA87E?style=flat-square&labelColor=1C1F1A"/>
-
-<sub>Analyze before acting &nbsp;·&nbsp; Ship solutions that work &nbsp;·&nbsp; Iterate toward excellence</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CURIOUS-ADB491?style=flat-square&labelColor=1C1F1A"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ADAPTIVE-8FA87E?style=flat-square&labelColor=1C1F1A"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CREATIVE-C4A265?style=flat-square&labelColor=1C1F1A"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/DRIVEN-D4CCBA?style=flat-square&labelColor=1C1F1A"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1F1A,25:6B7F5E,50:ADB491,75:6B7F5E,100:1C1F1A&height=2&section=header" width="100%"/>
-
-<br><br>
-
-Got a challenge worth solving? **Let's build something that matters.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=700&color=8A2BE2&center=true&vCenter=true&width=700&lines=Engineer+by+mindset.;Builder+by+nature.;Always+learning.;Always+building." />
 
 <br>
 
 <a href="mailto:sakthipranaash31@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-sakthipranaash31%40gmail.com-6B7F5E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1F1A"/>
+<img src="https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sakthipranaash31/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C1F1A"/>
+<a href="https://github.com/pranaash31">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/Sakthi_Pranaash/">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1C1F1A"/>
+<a href="https://linkedin.com/in/sakthipranaash31/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br><br>
+</div>
 
-<img src="https://img.shields.io/badge/BUILD_WITH_PURPOSE-ADB491?style=flat-square&labelColor=1C1F1A"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%97%86-C4A265?style=flat-square&labelColor=1C1F1A"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LEARN_WITH_CURIOSITY-8FA87E?style=flat-square&labelColor=1C1F1A"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%97%86-C4A265?style=flat-square&labelColor=1C1F1A"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CREATE_WITH_IMPACT-6B7F5E?style=flat-square&labelColor=1C1F1A"/>
+---
+
+## About Me
+
+I’m a **Software Engineer and AI/ML enthusiast** pursuing a B.Tech in Artificial Intelligence & Data Science, with hands-on experience building backend systems, intelligent applications, NLP pipelines, and automation solutions.
+
+I enjoy taking complex problems, understanding them deeply, and transforming them into practical systems. My experience spans **software engineering, machine learning, NLP, Generative AI, secure AI applications, and intelligent automation**, supported by a strong foundation in Data Structures & Algorithms and core computer science.
+
+I believe great engineering is not just about writing code — it is about **understanding the problem, designing with purpose, and continuously building better solutions.**
+
+> **Think deeply. Build deliberately. Keep evolving.**
+
+---
+
+## Professional Experience
+
+### Artificial Intelligence Engineer — Appin Technologies
+
+Built an automated job intelligence pipeline aggregating opportunities from **10+ recruitment platforms**, reducing manual job discovery effort by **70%**. Developed an NLP engine using Sentence Transformers to extract technical skills and generate personalized learning recommendations.
+
+### Machine Learning Engineer — Gradtwin
+
+Developed an NLP security pipeline using **Sentence Transformers and Scikit-learn** to detect prompt injection and jailbreak attacks. Built a Flask inference API with confidence scoring for secure LLM prompt validation with inference under **100 ms**.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADB491,25:8FA87E,50:6B7F5E,75:3D4A38,100:1C1F1A&height=120&section=footer" width="100%"/>
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,flask,spring,docker,git,github,postman,linux" />
+
+<br><br>
+
+### AI · ML · Data
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,mongodb" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </div>
+
+---
+
+## Recognition
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON%202024-FINALIST-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MEDHA%202026-TOP%205-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TECHIE%20OF%20THE%20YEAR-2024-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEETCODE-400%2B%20PROBLEMS-FFA116?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HACKERRANK-SILVER%20%7C%20JAVA-00EA64?style=for-the-badge"/>
+
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-CERTIFIED%20DATA%20ENGINEER%20%7C%20ASSOCIATE-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ORACLE-GENERATIVE%20AI%20PROFESSIONAL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GOOGLE-CYBERSECURITY%20PROFESSIONAL-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
+
+---
+
+## Leadership
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### AWS CLOUD CLUB
+
+**Cloud Champ**  
+2025 – 2026
+
+</td>
+
+<td width="80"></td>
+
+<td align="center">
+
+### UIPATH STUDENTS CLUB
+
+**Technical Lead**  
+2025 – 2026
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Currently
+
+<div align="center">
+
+```text
+LEARN     →     BUILD     →     EXPERIMENT     →     IMPROVE
