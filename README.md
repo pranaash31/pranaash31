@@ -22,13 +22,6 @@ At Gradtwin, I developed an NLP security pipeline using Sentence Transformers an
 
 I'm particularly interested in NLP, Generative AI, Retrieval-Augmented Generation, intelligent agents, semantic similarity, and AI security.
 
-## Software Engineer
-I work across backend development, APIs, databases, machine learning pipelines, and system-oriented applications.
-
-My core engineering stack includes Java, Python, Flask, Spring Boot, REST APIs, MySQL, MongoDB, Git, Docker, Linux, and AWS.
-
-I enjoy understanding problems at both the application and system level and building solutions that are maintainable, efficient, and practical.
-
 ## Technical Achievements
 I was a finalist at Smart India Hackathon 2024 and achieved Top 5 at MEDHA National Hackathon 2026. I was also recognized as Techie of the Year at PSNACET in 2024.
 
@@ -68,12 +61,6 @@ I also work with:<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-## Hackathon & Community
-
-I've participated in competitive technical environments including Smart India Hackathon and MEDHA National Hackathon, where I worked on solving real-world problems through engineering, machine learning, and collaborative development.
-
-I also contribute to student technical communities through my leadership roles in the AWS Cloud Club and UiPath Students Club.
 
 ## Currently
 
