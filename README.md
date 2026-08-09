@@ -1,11 +1,6 @@
-<!--
-  SAKTHI PRANAASH V — GITHUB PROFILE
-  Replace YOUR_GITHUB_USERNAME with your actual username
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A00FF,15:8A2BE2,35:00BFFF,55:00E5A0,75:FFD166,100:FF3CAC&height=200&text=SAKTHI%20PRANAASH%20V&fontSize=44&fontColor=FFFFFF&fontAlignY=32&animation=twinkling&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=15&descColor=E0E7FF&descAlignY=56&stroke=00D9FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:6A00FF,15:8A2BE2,35:00BFFF,55:00E5A0,75:FFD166,100:FF3CAC&height=220&text=SAKTHI%20PRANAASH%20V&fontSize=44&fontColor=FFFFFF&fontAlignY=32&animation=twinkling&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=15&descColor=E0E7FF&descAlignY=54&stroke=00D9FF&strokeWidth=1" width="100%"/>
 
 <a href="#">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=35&lines=%E2%96%B8+Think+deeply.;%E2%96%B8+Build+with+purpose.;%E2%96%B8+Learn+without+limits.;%E2%96%B8+Create+something+worth+remembering." alt="Typing SVG"/>
@@ -15,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/%E2%97%86_STATUS-ACTIVE_%2F%2F_ENGINEERING_IDEAS_INTO_REALITY-00E5A0?style=flat-square&labelColor=0d1117"/>
 &nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00BFFF&style=flat-square&label=PROFILE+VIEWS&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=pranaash31&color=00BFFF&style=flat-square&label=PROFILE+VIEWS&labelColor=0d1117"/>
 
 <br><br>
 
@@ -52,6 +47,16 @@ I learn through experimentation, build through iteration, and treat every challe
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,50:00E5A0,100:FFD166&height=1&section=header" width="60%"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CURIOUS-00D9FF?style=flat-square&labelColor=0d1117"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ADAPTIVE-FF3CAC?style=flat-square&labelColor=0d1117"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CREATIVE-00E5A0?style=flat-square&labelColor=0d1117"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DRIVEN-FFD166?style=flat-square&labelColor=0d1117"/>
 
 <br><br>
 
