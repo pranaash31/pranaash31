@@ -1,45 +1,185 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║  SAKTHI PRANAASH V                                                 ║
-  ║  Ultra-Premium Cyberpunk Engineering Profile README                ║
-  ║  Zero Emojis. Pure Visual Engineering.                             ║
-  ║  Every colored element uses shields.io / capsule-render so it      ║
-  ║  actually renders on GitHub (inline CSS color is stripped).        ║
-  ╚══════════════════════════════════════════════════════════════════════╝
--->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700');
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500');
 
-<div align="center">
+      .title-text {
+        font-family: 'Space Grotesk', 'Segoe UI', system-ui, -apple-system, sans-serif;
+        font-weight: 700;
+        font-size: 62px;
+        fill: url(#titleGradient);
+      }
+      .subtitle-text {
+        font-family: 'JetBrains Mono', 'Consolas', monospace;
+        font-weight: 500;
+        font-size: 14px;
+        fill: #7b8db8;
+        letter-spacing: 6px;
+      }
+      .label-text {
+        font-family: 'JetBrains Mono', 'Consolas', monospace;
+        font-size: 10px;
+        fill: #2d3560;
+        letter-spacing: 1.5px;
+      }
+      .status-text {
+        font-family: 'JetBrains Mono', 'Consolas', monospace;
+        font-size: 11px;
+        fill: #00E5A0;
+        letter-spacing: 2px;
+      }
+      .grid { stroke: #111630; stroke-width: 0.5; }
+      .corner { stroke: #1e2650; stroke-width: 1.5; fill: none; }
 
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  HERO HEADER  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+      @keyframes glow {
+        0%, 100% {
+          filter: drop-shadow(0 0 8px rgba(0,217,255,0.5)) drop-shadow(0 0 22px rgba(106,0,255,0.3));
+        }
+        50% {
+          filter: drop-shadow(0 0 18px rgba(0,217,255,0.85)) drop-shadow(0 0 45px rgba(106,0,255,0.5));
+        }
+      }
+      .title-group { animation: glow 4s ease-in-out infinite; }
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,15:8A2BE2,35:00BFFF,55:00E5A0,75:FFD166,100:FF3CAC&height=280&section=header&text=SAKTHI%20PRANAASH%20V&fontSize=56&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descAlignY=57&descSize=17&descColor=E0E7FF" width="100%"/>
+      @keyframes p1 { 0%,100% { opacity:.12 } 50% { opacity:.75 } }
+      @keyframes p2 { 0%,100% { opacity:.55 } 50% { opacity:.08 } }
+      @keyframes p3 { 0%,100% { opacity:.08 } 50% { opacity:.9 } }
+      @keyframes statusPulse { 0%,100% { opacity:.35 } 50% { opacity:1 } }
+      .d1 { animation: p1 3.5s ease-in-out infinite }
+      .d2 { animation: p2 4.5s ease-in-out infinite }
+      .d3 { animation: p3 5.5s ease-in-out infinite }
+      .status-dot { animation: statusPulse 2s ease-in-out infinite }
+    </style>
 
-<br>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#070a14"/>
+      <stop offset="50%" stop-color="#0b0e1c"/>
+      <stop offset="100%" stop-color="#090c18"/>
+    </linearGradient>
 
-<!-- Animated Terminal Typing -->
-<a href="https://github.com/sakthipranaashv">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=%E2%96%B8+Think+deeply.;%E2%96%B8+Build+with+purpose.;%E2%96%B8+Learn+without+limits.;%E2%96%B8+Create+something+worth+remembering." alt="Typing SVG"/>
-</a>
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF">
+        <animate attributeName="stop-color" values="#FFFFFF;#E0E7FF;#FFFFFF" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="30%" stop-color="#C4B5FD">
+        <animate attributeName="stop-color" values="#C4B5FD;#00D9FF;#C4B5FD" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="65%" stop-color="#00D9FF">
+        <animate attributeName="stop-color" values="#00D9FF;#8A2BE2;#00D9FF" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#6A00FF">
+        <animate attributeName="stop-color" values="#6A00FF;#FF3CAC;#6A00FF" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
 
-<br><br>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6A00FF" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00D9FF" stop-opacity="0.5"/>
+      <stop offset="70%" stop-color="#8A2BE2" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FF3CAC" stop-opacity="0"/>
+    </linearGradient>
 
-<!-- Status & Profile Badges -->
-<img src="https://img.shields.io/badge/%E2%97%86_STATUS-ACTIVE_%2F%2F_BUILDING_NEXT--GEN_SOLUTIONS-00E5A0?style=flat-square&labelColor=0d1117" alt="Status: Active"/>
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=sakthipranaashv&color=00BFFF&style=flat-square&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
+    <linearGradient id="bottomStripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6A00FF"/>
+      <stop offset="20%" stop-color="#8A2BE2"/>
+      <stop offset="40%" stop-color="#00BFFF"/>
+      <stop offset="60%" stop-color="#00E5A0"/>
+      <stop offset="80%" stop-color="#FFD166"/>
+      <stop offset="100%" stop-color="#FF3CAC"/>
+    </linearGradient>
 
-<br><br>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6A00FF" stop-opacity="0.08"/>
+      <stop offset="50%" stop-color="#00BFFF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#FF3CAC" stop-opacity="0.08"/>
+    </linearGradient>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,25:00BFFF,50:00E5A0,75:FFD166,100:FF3CAC&height=2&section=header" width="100%"/>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0  0 0 0 0 0.65  0 0 0 0 1  0 0 0 0.6 0" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-</div>
+  <!-- BACKGROUND -->
+  <rect width="1200" height="340" fill="url(#bgGrad)"/>
 
-<br>
+  <!-- GRID -->
+  <line x1="0" y1="68" x2="1200" y2="68" class="grid"/>
+  <line x1="0" y1="136" x2="1200" y2="136" class="grid"/>
+  <line x1="0" y1="204" x2="1200" y2="204" class="grid"/>
+  <line x1="0" y1="272" x2="1200" y2="272" class="grid"/>
+  <line x1="240" y1="0" x2="240" y2="340" class="grid"/>
+  <line x1="480" y1="0" x2="480" y2="340" class="grid"/>
+  <line x1="720" y1="0" x2="720" y2="340" class="grid"/>
+  <line x1="960" y1="0" x2="960" y2="340" class="grid"/>
 
-<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ABOUT ME  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+  <!-- ANIMATED DOTS -->
+  <circle cx="95" cy="52" r="2.5" fill="#00D9FF" class="d1"/>
+  <circle cx="320" cy="35" r="1.5" fill="#8A2BE2" class="d2"/>
+  <circle cx="520" cy="48" r="1" fill="#FFD166" class="d3"/>
+  <circle cx="880" cy="42" r="2" fill="#FF3CAC" class="d1"/>
+  <circle cx="1060" cy="58" r="1.5" fill="#00E5A0" class="d2"/>
+  <circle cx="155" cy="285" r="1.5" fill="#FFD166" class="d3"/>
+  <circle cx="420" cy="295" r="2" fill="#8A2BE2" class="d1"/>
+  <circle cx="780" cy="280" r="1" fill="#00D9FF" class="d2"/>
+  <circle cx="1100" cy="290" r="2" fill="#FF3CAC" class="d3"/>
+  <circle cx="40" cy="170" r="1" fill="#00BFFF" class="d1"/>
+  <circle cx="1160" cy="155" r="1" fill="#00E5A0" class="d2"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=A%20LITTLE%20ABOUT%20ME&fontColor=00D9FF&fontSize=30&fontAlignY=65&height=52&animation=fadeIn" alt="Section: About"/>
+  <!-- CORNER BRACKETS -->
+  <polyline points="24,45 24,22 47,22" class="corner"/>
+  <polyline points="1153,22 1176,22 1176,45" class="corner"/>
+  <polyline points="24,295 24,318 47,318" class="corner"/>
+  <polyline points="1153,318 1176,318 1176,295" class="corner"/>
+
+  <!-- CORNER LABELS -->
+  <text x="32" y="16" class="label-text">SYS.PROFILE</text>
+  <text x="1095" y="16" class="label-text">REV.2026.08</text>
+  <text x="32" y="334" class="label-text">NODE.ACTIVE</text>
+  <text x="1108" y="334" class="label-text">BUILD.01</text>
+
+  <!-- STATUS INDICATOR -->
+  <circle cx="505" cy="86" r="4" fill="#00E5A0" class="status-dot"/>
+  <text x="516" y="90" class="status-text">ONLINE // READY TO BUILD</text>
+
+  <!-- ACCENT LINE ABOVE NAME -->
+  <line x1="250" y1="106" x2="950" y2="106" stroke="url(#accentLine)" stroke-width="1"/>
+
+  <!-- MAIN NAME WITH GLOW -->
+  <g class="title-group">
+    <text x="600" y="172" text-anchor="middle" class="title-text" filter="url(#softGlow)">SAKTHI PRANAASH V</text>
+  </g>
+
+  <!-- ACCENT LINE BELOW NAME -->
+  <line x1="250" y1="193" x2="950" y2="193" stroke="url(#accentLine)" stroke-width="1"/>
+
+  <!-- SUBTITLE -->
+  <text x="600" y="228" text-anchor="middle" class="subtitle-text">ENGINEERING IDEAS INTO REALITY</text>
+
+  <!-- ANIMATED HEXAGON -->
+  <polygon points="600,254 608,258 608,266 600,270 592,266 592,258" fill="none" stroke="#1e2650" stroke-width="1">
+    <animate attributeName="stroke" values="#1e2650;#00D9FF;#1e2650" dur="4s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- SCANNING LINE -->
+  <line x1="0" y1="0" x2="1200" y2="0" stroke="#00D9FF" stroke-width="0.5" opacity="0">
+    <animate attributeName="y1" values="0;340;0" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="0;340;0" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.18;0" dur="10s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- BOTTOM WAVE SHAPES -->
+  <path d="M0,300 C200,275 400,315 600,295 S1000,270 1200,300 L1200,335 L0,335 Z" fill="url(#waveGrad)"/>
+  <path d="M0,310 C300,290 500,320 700,305 S1000,285 1200,310 L1200,335 L0,335 Z" fill="url(#waveGrad)"/>
+
+  <!-- BOTTOM GRADIENT STRIPE -->
+  <rect x="0" y="335" width="1200" height="5" fill="url(#bottomStripe)"/>
+</svg>
 </div>
 
 <br>
