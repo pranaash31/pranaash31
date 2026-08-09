@@ -55,16 +55,6 @@ I learn through experimentation, build through iteration, and treat every challe
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CURIOUS-00D9FF?style=flat-square&labelColor=0d1117"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ADAPTIVE-FF3CAC?style=flat-square&labelColor=0d1117"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CREATIVE-00E5A0?style=flat-square&labelColor=0d1117"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/DRIVEN-FFD166?style=flat-square&labelColor=0d1117"/>
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD166,50:FF3CAC,100:8A2BE2&height=1&section=header" width="60%"/>
 
 <br><br>
