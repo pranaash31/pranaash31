@@ -1,11 +1,6 @@
 <img width="1223" height="348" alt="Screenshot 2026-08-09 at 10 53 52 PM" src="https://github.com/user-attachments/assets/d91231bd-a949-40ce-9eaa-3da5204d7f8b" />
 
-███████╗ █████╗ ██╗  ██╗████████╗██╗  ██╗██╗   ██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗  █████╗ ███████╗██╗  ██╗   ██╗   ██╗
-██╔════╝██╔══██╗██║ ██╔╝╚══██╔══╝██║  ██║██║   ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║   ╚██╗ ██╔╝
-███████╗███████║█████╔╝    ██║   ███████║██║   ██████╔╝██████╔╝███████║██╔██╗ ██║███████║███████║███████╗███████║    ╚████╔╝
-╚════██║██╔══██║██╔═██╗    ██║   ██╔══██║██║   ██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║██╔══██║╚════██║██╔══██║     ╚██╔╝
-███████║██║  ██║██║  ██╗   ██║   ██║  ██║██║   ██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║██║  ██║███████║██║  ██║      ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝      ╚═╝
+
 
 
 Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in machine learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical challenges.
