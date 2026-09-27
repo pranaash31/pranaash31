@@ -4,12 +4,12 @@ Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine L
 
 ## About Me
 
-* I'm a Software Engineer focused on building intelligent and reliable software systems using Java, Python, Machine Learning, NLP, Generative AI, and backend technologies.
-* I have hands-on experience building NLP pipelines using Sentence Transformers and Scikit-learn, including systems for skill extraction, recommendation generation, prompt injection detection, and jailbreak detection.
-* I've worked on an automated job intelligence pipeline aggregating opportunities from 10+ recruitment platforms, reducing manual job discovery effort by 70%.
-* I enjoy solving challenging programming problems and have solved 400+ problems on LeetCode while continuously strengthening my Data Structures and Algorithms fundamentals.
-* I'm interested in the intersection of Artificial Intelligence and Software Engineering, particularly systems that transform complex problems into practical and scalable solutions.
-* I enjoy participating in hackathons, technical communities, and collaborative engineering environments where I can learn, contribute, and build.
+- I'm a Software Engineer focused on building intelligent and reliable software systems using Java, Python, Machine Learning, NLP, Generative AI, and backend technologies.
+- I have hands-on experience building NLP pipelines using Sentence Transformers and Scikit-learn, including systems for skill extraction, recommendation generation, prompt injection detection, and jailbreak detection.
+- I've worked on an automated job intelligence pipeline aggregating opportunities from 10+ recruitment platforms, reducing manual job discovery effort by 70%.
+- I enjoy solving challenging programming problems and have solved 400+ problems on LeetCode while continuously strengthening my Data Structures and Algorithms fundamentals.
+- I'm interested in the intersection of Artificial Intelligence and Software Engineering, particularly systems that transform complex problems into practical and scalable solutions.
+- I enjoy participating in hackathons, technical communities, and collaborative engineering environments where I can learn, contribute, and build.
 
 ## Artificial Intelligence & Machine Learning Engineer
 
@@ -35,90 +35,46 @@ I enjoy working with teams, taking ownership of technical responsibilities, shar
 
 ## Tech Stack
 
-I work with:<br/>
-[![Java, Python, JavaScript, HTML, CSS, React, Flask, Spring, MySQL, MongoDB, Linux, Git, GitHub, Docker, Postman, AWS](https://skillicons.dev/icons?i=java,python,js,html,css,react,flask,spring,mysql,mongodb,linux,git,github,docker,postman,aws\&perline=6)](https://skillicons.dev)
+I work with:
 
-I also work with:<br/>
-[![TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Hugging Face](https://skillicons.dev/icons?i=tensorflow,pytorch,python\&perline=6)](https://skillicons.dev)
+[![Java, Python, JavaScript, HTML, CSS, React, Flask, Spring, MySQL, MongoDB, Linux, Git, GitHub, Docker, Postman, AWS](https://skillicons.dev/icons?i=java,python,js,html,css,react,flask,spring,mysql,mongodb,linux,git,github,docker,postman,aws&perline=6)](https://skillicons.dev)
+
+I also work with:
+
+[![TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Hugging Face](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6)](https://skillicons.dev)
 
 `Scikit-learn` · `NumPy` · `Pandas` · `Transformers` · `LangChain` · `RAG` · `Prompt Engineering` · `AI Agents` · `Power BI`
 
 ## Certifications
 
-<div align="center">
+<p align="left">
+  <img src="./assets/certifications/aws-data-engineer.png" width="130" alt="AWS Certified Data Engineer - Associate">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/certifications/aws-cloud-practitioner.png" width="130" alt="AWS Certified Cloud Practitioner">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/certifications/oracle-generative-ai.png" width="130" alt="Oracle Certified Professional - Generative AI">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/certifications/google-cybersecurity.png" width="130" alt="Google Cybersecurity Professional Certificate">
+</p>
 
-<table>
-<tr>
+**AWS Certified Data Engineer – Associate** · **AWS Certified Cloud Practitioner**  
+**Oracle Certified Professional – Generative AI** · **Google Cybersecurity Professional Certificate**
 
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20%E2%80%93%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-
-<br/><br/>
-
-<b>AWS Certified</b><br/>
-Data Engineer – Associate
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-
-<br/><br/>
-
-<b>AWS Certified</b><br/>
-Cloud Practitioner
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
-
-<br/><br/>
-
-<b>Oracle Certified</b><br/>
-Generative AI Professional
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=flat-square&logo=google&logoColor=white" />
-
-<br/><br/>
-
-<b>Google</b><br/>
-Cybersecurity Professional
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AWS%20Certified-2x-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-</div>
+`AWS Certified × 2` · `Oracle Certified` · `Google Certified`
 
 ## Social Links
 
-[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/github.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/github.svg?color=black&height=40'><img alt='github logo' src='https://api.iconify.design/simple-icons/github.svg?color=black&height=40' height='40'></picture>](https://github.com/pranaash31)   [<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/gmail.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40'><img alt='email logo' src='https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40' height='40'></picture>](mailto:sakthipranaash31@gmail.com)
+[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/github.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/github.svg?color=black&height=40'><img alt='github logo' src='https://api.iconify.design/simple-icons/github.svg?color=black&height=40' height='40'></picture>](https://github.com/pranaash31)&nbsp;&nbsp;
+[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/gmail.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40'><img alt='email logo' src='https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40' height='40'></picture>](mailto:sakthipranaash31@gmail.com)
 
-## Software I use
+## Software I Use
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge\&logo=linux\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Currently
 
@@ -130,4 +86,4 @@ I'm looking for opportunities where I can work on meaningful engineering problem
 
 If you're working on an interesting engineering problem, building something ambitious, or looking for someone who enjoys learning by building, I'd be glad to connect.
 
-[![Email](https://img.shields.io/badge/Email-sakthipranaash31%40gmail.com-8A2BE2.svg?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sakthipranaash31@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sakthipranaash31%40gmail.com-8A2BE2.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthipranaash31@gmail.com)
