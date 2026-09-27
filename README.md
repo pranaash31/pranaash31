@@ -53,8 +53,8 @@ I also work with:
 <td align="center" width="25%">
 
 <img
-src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/aws-data-engineer.png"
-width="120"
+src="./assets/certifications/aws-data-engineer.png"
+width="125"
 alt="AWS Certified Data Engineer - Associate">
 
 <br><br>
@@ -67,8 +67,8 @@ Data Engineer – Associate
 <td align="center" width="25%">
 
 <img
-src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/aws-cloud-practitioner.png"
-width="120"
+src="./assets/certifications/aws-cloud-practitioner.png"
+width="125"
 alt="AWS Certified Cloud Practitioner">
 
 <br><br>
@@ -81,8 +81,8 @@ Cloud Practitioner
 <td align="center" width="25%">
 
 <img
-src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/oracle-generative-ai.png"
-width="120"
+src="./assets/certifications/oracle-generative-ai.png"
+width="125"
 alt="Oracle Cloud Infrastructure 2025 Certified Generative AI Professional">
 
 <br><br>
@@ -95,8 +95,8 @@ Professional – Generative AI
 <td align="center" width="25%">
 
 <img
-src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/google-cybersecurity.png"
-width="120"
+src="./assets/certifications/google-cybersecurity.png"
+width="125"
 alt="Google Cybersecurity Professional Certificate">
 
 <br><br>
@@ -108,6 +108,8 @@ Cybersecurity Professional Certificate
 
 </tr>
 </table>
+
+<br>
 
 <p align="center">
 
