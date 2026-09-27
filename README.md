@@ -52,68 +52,64 @@ I also work with:
 
 <td align="center" width="25%">
 
-<a href="https://github.com/pranaash31/pranaash31/blob/main/assets/certifications/aws-data-engineer.png">
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-data-engineer-associate">
 
-<img src="https://github.com/pranaash31/pranaash31/raw/refs/heads/main/assets/certifications/aws-data-engineer.png"
-     width="130"
-     alt="AWS Certified Data Engineer - Associate">
+<img
+src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png"
+width="125"
+alt="AWS Certified Data Engineer - Associate">
 
 </a>
 
 <br><br>
 
-<b>AWS Certified</b><br>
+<strong>AWS Certified</strong><br>
 Data Engineer – Associate
 
 </td>
 
 <td align="center" width="25%">
 
-<a href="https://github.com/pranaash31/pranaash31/blob/main/assets/certifications/aws-cloud-practitioner.png">
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
 
-<img src="https://github.com/pranaash31/pranaash31/raw/refs/heads/main/assets/certifications/aws-cloud-practitioner.png"
-     width="130"
-     alt="AWS Certified Cloud Practitioner">
+<img
+src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+width="125"
+alt="AWS Certified Cloud Practitioner">
 
 </a>
 
 <br><br>
 
-<b>AWS Certified</b><br>
+<strong>AWS Certified</strong><br>
 Cloud Practitioner
 
 </td>
 
 <td align="center" width="25%">
 
-<a href="https://github.com/pranaash31/pranaash31/blob/main/assets/certifications/oracle-generative-ai.png">
-
-<img src="https://github.com/pranaash31/pranaash31/raw/refs/heads/main/assets/certifications/oracle-generative-ai.png"
-     width="130"
-     alt="Oracle Certified Professional - Generative AI">
-
-</a>
+<img
+src="https://www.ericbeyer.org/posts/oracle-generative-ai/oracle-generative-ai-badge.png"
+width="125"
+alt="Oracle Certified Professional - Generative AI">
 
 <br><br>
 
-<b>Oracle Certified</b><br>
+<strong>Oracle Certified</strong><br>
 Professional – Generative AI
 
 </td>
 
 <td align="center" width="25%">
 
-<a href="https://github.com/pranaash31/pranaash31/blob/main/assets/certifications/google-cybersecurity.png">
-
-<img src="https://github.com/pranaash31/pranaash31/raw/refs/heads/main/assets/certifications/google-cybersecurity.png"
-     width="130"
-     alt="Google Cybersecurity Professional Certificate">
-
-</a>
+<img
+src="https://gurleenkaurbali19.github.io/gurleen_kaur_bali_portfolio/assets/oci_genai_badge.png"
+width="125"
+alt="Google Cybersecurity Professional Certificate">
 
 <br><br>
 
-<b>Google</b><br>
+<strong>Google</strong><br>
 Cybersecurity Professional Certificate
 
 </td>
@@ -123,7 +119,11 @@ Cybersecurity Professional Certificate
 
 <p align="center">
 
-`AWS Certified × 2` &nbsp; · &nbsp; `Oracle Certified` &nbsp; · &nbsp; `Google Certified`
+<code>AWS Certified × 2</code>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<code>Oracle Certified</code>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<code>Google Certified</code>
 
 </p>
 
@@ -132,17 +132,19 @@ Cybersecurity Professional Certificate
 <p align="left">
 
 <a href="https://github.com/pranaash31">
-<img src="https://api.iconify.design/simple-icons/github.svg?color=black&height=40"
-     height="40"
-     alt="GitHub">
+<img
+src="https://api.iconify.design/simple-icons/github.svg?color=black&height=40"
+height="40"
+alt="GitHub">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="mailto:sakthipranaash31@gmail.com">
-<img src="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40"
-     height="40"
-     alt="Email">
+<img
+src="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40"
+height="40"
+alt="Email">
 </a>
 
 </p>
