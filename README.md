@@ -52,14 +52,10 @@ I also work with:
 
 <td align="center" width="25%">
 
-<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-data-engineer-associate">
-
 <img
-src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png"
-width="125"
+src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/aws-data-engineer.png"
+width="120"
 alt="AWS Certified Data Engineer - Associate">
-
-</a>
 
 <br><br>
 
@@ -70,14 +66,10 @@ Data Engineer – Associate
 
 <td align="center" width="25%">
 
-<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
-
 <img
-src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
-width="125"
+src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/aws-cloud-practitioner.png"
+width="120"
 alt="AWS Certified Cloud Practitioner">
-
-</a>
 
 <br><br>
 
@@ -89,9 +81,9 @@ Cloud Practitioner
 <td align="center" width="25%">
 
 <img
-src="https://www.ericbeyer.org/posts/oracle-generative-ai/oracle-generative-ai-badge.png"
-width="125"
-alt="Oracle Certified Professional - Generative AI">
+src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/oracle-generative-ai.png"
+width="120"
+alt="Oracle Cloud Infrastructure 2025 Certified Generative AI Professional">
 
 <br><br>
 
@@ -103,8 +95,8 @@ Professional – Generative AI
 <td align="center" width="25%">
 
 <img
-src="https://gurleenkaurbali19.github.io/gurleen_kaur_bali_portfolio/assets/oci_genai_badge.png"
-width="125"
+src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/google-cybersecurity.png"
+width="120"
 alt="Google Cybersecurity Professional Certificate">
 
 <br><br>
@@ -133,7 +125,7 @@ Cybersecurity Professional Certificate
 
 <a href="https://github.com/pranaash31">
 <img
-src="https://api.iconify.design/simple-icons/github.svg?color=black&height=40"
+src="https://api.iconify.design/simple-icons/github.svg?color=white&height=40"
 height="40"
 alt="GitHub">
 </a>
@@ -142,7 +134,7 @@ alt="GitHub">
 
 <a href="mailto:sakthipranaash31@gmail.com">
 <img
-src="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40"
+src="https://api.iconify.design/simple-icons/gmail.svg?color=white&height=40"
 height="40"
 alt="Email">
 </a>
