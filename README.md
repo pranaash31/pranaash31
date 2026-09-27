@@ -1,6 +1,6 @@
-<img width="1223" height="348" alt="Screenshot 2026-08-09 at 10 53 52 PM" src="https://github.com/user-attachments/assets/d91231bd-a949-40ce-9eaa-3da5204d7f8b" />
+<img width="1223" height="348" alt="Sakthi Pranaash V" src="https://github.com/user-attachments/assets/d91231bd-a949-40ce-9eaa-3da5204d7f8b" />
 
-Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in machine learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical challenges.
+Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in Machine Learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical challenges.
 
 ## About Me
 
@@ -41,31 +41,57 @@ I work with:
 
 I also work with:
 
-[![TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Hugging Face](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6)](https://skillicons.dev)
+[![TensorFlow, PyTorch](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6)](https://skillicons.dev)
 
 `Scikit-learn` · `NumPy` · `Pandas` · `Transformers` · `LangChain` · `RAG` · `Prompt Engineering` · `AI Agents` · `Power BI`
 
 ## Certifications
 
 <p align="left">
-  <img src="./assets/certifications/aws-data-engineer.png" width="130" alt="AWS Certified Data Engineer - Associate">
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/certifications/aws-cloud-practitioner.png" width="130" alt="AWS Certified Cloud Practitioner">
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/certifications/oracle-generative-ai.png" width="130" alt="Oracle Certified Professional - Generative AI">
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/certifications/google-cybersecurity.png" width="130" alt="Google Cybersecurity Professional Certificate">
+
+<img src="./assets/certifications/aws-data-engineer.png"
+     width="135"
+     alt="AWS Certified Data Engineer - Associate">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="./assets/certifications/aws-cloud-practitioner.png"
+     width="135"
+     alt="AWS Certified Cloud Practitioner">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="./assets/certifications/oracle-generative-ai.png"
+     width="135"
+     alt="Oracle Certified Professional - Generative AI">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="./assets/certifications/google-cybersecurity.png"
+     width="135"
+     alt="Google Cybersecurity Professional Certificate">
+
 </p>
 
-**AWS Certified Data Engineer – Associate** · **AWS Certified Cloud Practitioner**  
+**AWS Certified Data Engineer – Associate** · **AWS Certified Cloud Practitioner**
+
 **Oracle Certified Professional – Generative AI** · **Google Cybersecurity Professional Certificate**
 
 `AWS Certified × 2` · `Oracle Certified` · `Google Certified`
 
 ## Social Links
 
-[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/github.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/github.svg?color=black&height=40'><img alt='github logo' src='https://api.iconify.design/simple-icons/github.svg?color=black&height=40' height='40'></picture>](https://github.com/pranaash31)&nbsp;&nbsp;
-[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/gmail.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40'><img alt='email logo' src='https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40' height='40'></picture>](mailto:sakthipranaash31@gmail.com)
+[<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=white&height=40">
+<source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=black&height=40">
+<img alt="GitHub" src="https://api.iconify.design/simple-icons/github.svg?color=black&height=40" height="40">
+</picture>](https://github.com/pranaash31)
+&nbsp;&nbsp;
+[<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=white&height=40">
+<source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40">
+<img alt="Email" src="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40" height="40">
+</picture>](mailto:sakthipranaash31@gmail.com)
 
 ## Software I Use
 
