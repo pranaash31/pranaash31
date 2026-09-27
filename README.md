@@ -1,163 +1,95 @@
-<img width="1223" height="348" alt="Sakthi Pranaash V" src="https://github.com/user-attachments/assets/d91231bd-a949-40ce-9eaa-3da5204d7f8b" />
+<img width="1223" alt="header" src="https://github.com/user-attachments/assets/b831206f-b25c-4dfd-b4b1-e236e7ee55ec" />
 
-Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in Machine Learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical challenges.
+# Hi there 👋, I'm Pranaash
 
-## About Me
+Data Science & AI/ML Enthusiast | Cloud & Cybersecurity Learner | B.Tech CSE (AI & ML) @ SRMIST
 
-- I'm a Software Engineer focused on building intelligent and reliable software systems using Java, Python, Machine Learning, NLP, Generative AI, and backend technologies.
-- I have hands-on experience building NLP pipelines using Sentence Transformers and Scikit-learn, including systems for skill extraction, recommendation generation, prompt injection detection, and jailbreak detection.
-- I've worked on an automated job intelligence pipeline aggregating opportunities from 10+ recruitment platforms, reducing manual job discovery effort by 70%.
-- I enjoy solving challenging programming problems and have solved 400+ problems on LeetCode while continuously strengthening my Data Structures and Algorithms fundamentals.
-- I'm interested in the intersection of Artificial Intelligence and Software Engineering, particularly systems that transform complex problems into practical and scalable solutions.
-- I enjoy participating in hackathons, technical communities, and collaborative engineering environments where I can learn, contribute, and build.
+Welcome to my GitHub profile! I am passionate about building data-driven solutions, working with cloud infrastructure, and applying AI/ML models to solve real-world problems.
 
-## Artificial Intelligence & Machine Learning Engineer
+---
 
-My work in AI and Machine Learning focuses on applying intelligent techniques to practical engineering problems. At Appin Technologies, I built an automated job intelligence pipeline and developed an NLP engine using Sentence Transformers to extract technical skills and generate personalized learning recommendations.
+## 🛠️ Tech Stack & Skills
 
-At Gradtwin, I developed an NLP security pipeline using Sentence Transformers and Scikit-learn to detect prompt injection and jailbreak attacks. I also built a Flask inference API with confidence scoring for secure LLM prompt validation with inference under 100 ms.
+### 🚀 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-I'm particularly interested in NLP, Generative AI, Retrieval-Augmented Generation, intelligent agents, semantic similarity, and AI security.
+### 📊 Data Science, Analytics & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## Technical Achievements
+### ☁️ Cloud, DevOps & Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-I was a finalist at Smart India Hackathon 2024 and achieved Top 5 at MEDHA National Hackathon 2026. I was also recognized as Techie of the Year at PSNACET in 2024.
+---
 
-I have solved 400+ problems on LeetCode and earned a Silver Badge in Java on HackerRank.
-
-These experiences have strengthened my problem-solving ability, technical depth, teamwork, and ability to perform under challenging constraints.
-
-## Technical Leadership
-
-I've taken leadership roles as Cloud Champ at the AWS Cloud Club and Technical Lead at the UiPath Students Club.
-
-I enjoy working with teams, taking ownership of technical responsibilities, sharing knowledge, and helping turn ideas into working solutions.
-
-## Tech Stack
-
-I work with:
-
-[![Java, Python, JavaScript, HTML, CSS, React, Flask, Spring, MySQL, MongoDB, Linux, Git, GitHub, Docker, Postman, AWS](https://skillicons.dev/icons?i=java,python,js,html,css,react,flask,spring,mysql,mongodb,linux,git,github,docker,postman,aws&perline=6)](https://skillicons.dev)
-
-I also work with:
-
-[![TensorFlow, PyTorch](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6)](https://skillicons.dev)
-
-`Scikit-learn` · `NumPy` · `Pandas` · `Transformers` · `LangChain` · `RAG` · `Prompt Engineering` · `AI Agents` · `Power BI`
-
-## Certifications
+## 📜 Certifications
 
 <table>
 <tr>
 
 <td align="center" width="25%">
-
-<img
-src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/aws-data-engineer.png"
-width="120"
-alt="AWS Certified Data Engineer - Associate">
-
+<img src="Data%20engineer%20associate.png" width="120" alt="AWS Certified Data Engineer - Associate">
 <br><br>
-
-<strong>AWS Certified</strong><br>
-Data Engineer – Associate
-
+<strong>AWS Certified</strong><br>Data Engineer – Associate
 </td>
 
 <td align="center" width="25%">
-
-<img
-src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/aws-cloud-practitioner.png"
-width="120"
-alt="AWS Certified Cloud Practitioner">
-
+<img src="cloud%20practitioner.png" width="120" alt="AWS Certified Cloud Practitioner">
 <br><br>
-
-<strong>AWS Certified</strong><br>
-Cloud Practitioner
-
+<strong>AWS Certified</strong><br>Cloud Practitioner
 </td>
 
 <td align="center" width="25%">
-
-<img
-src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/oracle-generative-ai.png"
-width="120"
-alt="Oracle Cloud Infrastructure 2025 Certified Generative AI Professional">
-
+<img src="Oracle%20gen%20ai.png" width="120" alt="Oracle Cloud Infrastructure 2024 Generative AI Certified Professional">
 <br><br>
-
-<strong>Oracle Certified</strong><br>
-Professional – Generative AI
-
+<strong>Oracle Cloud</strong><br>OCI 2024 Generative AI Professional
 </td>
 
 <td align="center" width="25%">
-
-<img
-src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/assets/certifications/google-cybersecurity.png"
-width="120"
-alt="Google Cybersecurity Professional Certificate">
-
+<img src="google%20cybersecurity.png" width="120" alt="Google Cybersecurity Certificate">
 <br><br>
-
-<strong>Google</strong><br>
-Cybersecurity Professional Certificate
-
+<strong>Google</strong><br>Cybersecurity Certificate
 </td>
 
 </tr>
 </table>
 
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-
-<code>AWS Certified × 2</code>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<code>Oracle Certified</code>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<code>Google Certified</code>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=pranaash31&show_icons=true&theme=radial" alt="Pranaash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaash31&layout=compact&theme=radial" alt="Top Languages" />
 </p>
 
-## Social Links
-
-<p align="left">
-
-<a href="https://github.com/pranaash31">
-<img
-src="https://api.iconify.design/simple-icons/github.svg?color=white&height=40"
-height="40"
-alt="GitHub">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:sakthipranaash31@gmail.com">
-<img
-src="https://api.iconify.design/simple-icons/gmail.svg?color=white&height=40"
-height="40"
-alt="Email">
-</a>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranaash31&theme=radial" alt="GitHub Streak" />
 </p>
 
-## Software I Use
+---
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+## 📫 Connect with Me
 
-## Currently
+- 💼 **LinkedIn:** [linkedin.com/in/pranaash31](https://linkedin.com/in/pranaash31) <!-- Update with your actual URL -->
+- 📧 **Email:** pranaash31@gmail.com <!-- Update with your actual Email -->
+- 🌐 **Portfolio:** [pranaash31.github.io](https://pranaash31.github.io) <!-- Update if applicable -->
 
-I'm continuously strengthening my software engineering fundamentals while exploring AI/ML, Generative AI, backend systems, system design, and intelligent applications.
+---
 
-I'm looking for opportunities where I can work on meaningful engineering problems, learn from strong teams, contribute technically, and grow into a well-rounded Software Engineer.
-
-## Let's Connect
-
-If you're working on an interesting engineering problem, building something ambitious, or looking for someone who enjoys learning by building, I'd be glad to connect.
-
-[![Email](https://img.shields.io/badge/Email-sakthipranaash31%40gmail.com-8A2BE2.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthipranaash31@gmail.com)
+<p align="center">
+  <i>"Transforming data into insights and models into impact."</i> 🚀
+</p>
