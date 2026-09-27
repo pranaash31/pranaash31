@@ -47,51 +47,105 @@ I also work with:
 
 ## Certifications
 
-<p align="left">
+<table>
+<tr>
 
-<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-data-engineer-associate">
-<img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png"
-     width="140"
+<td align="center" width="25%">
+
+<a href="https://github.com/pranaash31/pranaash31/blob/main/assets/certifications/aws-data-engineer.png">
+
+<img src="https://github.com/pranaash31/pranaash31/raw/refs/heads/main/assets/certifications/aws-data-engineer.png"
+     width="130"
      alt="AWS Certified Data Engineer - Associate">
+
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
 
-<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
-<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
-     width="140"
+<b>AWS Certified</b><br>
+Data Engineer – Associate
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://github.com/pranaash31/pranaash31/blob/main/assets/certifications/aws-cloud-practitioner.png">
+
+<img src="https://github.com/pranaash31/pranaash31/raw/refs/heads/main/assets/certifications/aws-cloud-practitioner.png"
+     width="130"
      alt="AWS Certified Cloud Practitioner">
+
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
 
-<img src="https://gurleenkaurbali19.github.io/gurleen_kaur_bali_portfolio/assets/oci_genai_badge.png"
-     width="140"
-     alt="Oracle Cloud Infrastructure 2025 Certified Generative AI Professional">
+<b>AWS Certified</b><br>
+Cloud Practitioner
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<img src="https://pttzjcsdqky8719a.public.blob.vercel-storage.com/images/2023/08/Google-cybersecurity-certificate-chandler-nguyen.webp"
-     width="140"
+<td align="center" width="25%">
+
+<a href="https://github.com/pranaash31/pranaash31/blob/main/assets/certifications/oracle-generative-ai.png">
+
+<img src="https://github.com/pranaash31/pranaash31/raw/refs/heads/main/assets/certifications/oracle-generative-ai.png"
+     width="130"
+     alt="Oracle Certified Professional - Generative AI">
+
+</a>
+
+<br><br>
+
+<b>Oracle Certified</b><br>
+Professional – Generative AI
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://github.com/pranaash31/pranaash31/blob/main/assets/certifications/google-cybersecurity.png">
+
+<img src="https://github.com/pranaash31/pranaash31/raw/refs/heads/main/assets/certifications/google-cybersecurity.png"
+     width="130"
      alt="Google Cybersecurity Professional Certificate">
+
+</a>
+
+<br><br>
+
+<b>Google</b><br>
+Cybersecurity Professional Certificate
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+`AWS Certified × 2` &nbsp; · &nbsp; `Oracle Certified` &nbsp; · &nbsp; `Google Certified`
 
 </p>
 
-`AWS Certified × 2` · `Oracle Certified` · `Google Certified`
-
 ## Social Links
 
-[<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=white&height=40">
-<source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=black&height=40">
-<img alt="GitHub" src="https://api.iconify.design/simple-icons/github.svg?color=black&height=40">
-</picture>](https://github.com/pranaash31)
+<p align="left">
+
+<a href="https://github.com/pranaash31">
+<img src="https://api.iconify.design/simple-icons/github.svg?color=black&height=40"
+     height="40"
+     alt="GitHub">
+</a>
+
 &nbsp;&nbsp;
-[<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=white&height=40">
-<source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40">
-<img alt="Email" src="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40">
-</picture>](mailto:sakthipranaash31@gmail.com)
+
+<a href="mailto:sakthipranaash31@gmail.com">
+<img src="https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40"
+     height="40"
+     alt="Email">
+</a>
+
+</p>
 
 ## Software I Use
 
