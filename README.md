@@ -83,12 +83,12 @@ Cloud Practitioner
 <img
 src="./Oracle%20gen%20ai.png"
 width="120"
-alt="Oracle Cloud Infrastructure 2024 Generative AI Certified Professional">
+alt="Oracle Cloud Infrastructure Generative AI Professional">
 
 <br><br>
 
 <strong>Oracle Cloud</strong><br>
-OCI Generative AI Professional
+Generative AI Professional
 
 </td>
 
@@ -113,74 +113,61 @@ Cybersecurity Certificate
 
 ## Social Links
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
 
-<a href="https://github.com/pranaash31" target="_blank">
-<img
-src="https://cdn.simpleicons.org/github/ffffff"
-width="48"
-height="48"
-alt="GitHub">
+<a href="https://github.com/pranaash31">
+<img src="https://cdn.simpleicons.org/github/ffffff"
+     width="38"
+     height="38"
+     alt="GitHub">
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-<img
-src="https://cdn.simpleicons.org/linkedin/ffffff"
-width="48"
-height="48"
-alt="LinkedIn">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://cdn.simpleicons.org/linkedin/ffffff"
+     width="38"
+     height="38"
+     alt="LinkedIn">
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_INSTAGRAM_URL" target="_blank">
-<img
-src="https://cdn.simpleicons.org/instagram/ffffff"
-width="48"
-height="48"
-alt="Instagram">
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://cdn.simpleicons.org/instagram/ffffff"
+     width="38"
+     height="38"
+     alt="Instagram">
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_X_URL" target="_blank">
-<img
-src="https://cdn.simpleicons.org/x/ffffff"
-width="48"
-height="48"
-alt="X">
+<a href="YOUR_X_URL">
+<img src="https://cdn.simpleicons.org/x/ffffff"
+     width="38"
+     height="38"
+     alt="X">
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_STACKOVERFLOW_URL" target="_blank">
-<img
-src="https://cdn.simpleicons.org/stackoverflow/ffffff"
-width="48"
-height="48"
-alt="Stack Overflow">
+<a href="YOUR_STACKOVERFLOW_URL">
+<img src="https://cdn.simpleicons.org/stackoverflow/ffffff"
+     width="38"
+     height="38"
+     alt="Stack Overflow">
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_REDDIT_URL" target="_blank">
-<img
-src="https://cdn.simpleicons.org/reddit/ffffff"
-width="48"
-height="48"
-alt="Reddit">
+<a href="YOUR_REDDIT_URL">
+<img src="https://cdn.simpleicons.org/reddit/ffffff"
+     width="38"
+     height="38"
+     alt="Reddit">
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:sakthipranaash31@gmail.com">
-<img
-src="https://cdn.simpleicons.org/gmail/ffffff"
-width="48"
-height="48"
-alt="Email">
+<img src="https://cdn.simpleicons.org/gmail/ffffff"
+     width="38"
+     height="38"
+     alt="Email">
 </a>
 
 </p>
