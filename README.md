@@ -113,77 +113,93 @@ Cybersecurity Certificate
 
 ## Social Links
 
-<p align="left">
+<table>
+<tr>
 
+<td align="center">
 <a href="https://github.com/pranaash31">
 <img
-src="https://api.iconify.design/simple-icons:github.svg?color=white&height=38"
-width="38"
-height="38"
+src="https://api.iconify.design/simple-icons:github.svg?color=white&height=30"
+width="30"
+height="30"
 alt="GitHub">
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="YOUR_LINKEDIN_URL">
 <img
-src="https://api.iconify.design/simple-icons:linkedin.svg?color=white&height=38"
-width="38"
-height="38"
+src="https://api.iconify.design/simple-icons:linkedin.svg?color=white&height=30"
+width="30"
+height="30"
 alt="LinkedIn">
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="YOUR_INSTAGRAM_URL">
 <img
-src="https://api.iconify.design/simple-icons:instagram.svg?color=white&height=38"
-width="38"
-height="38"
+src="https://api.iconify.design/simple-icons:instagram.svg?color=white&height=30"
+width="30"
+height="30"
 alt="Instagram">
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="YOUR_X_URL">
 <img
-src="https://api.iconify.design/simple-icons:x.svg?color=white&height=38"
-width="38"
-height="38"
+src="https://api.iconify.design/simple-icons:x.svg?color=white&height=30"
+width="30"
+height="30"
 alt="X">
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="YOUR_STACKOVERFLOW_URL">
 <img
-src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white&height=38"
-width="38"
-height="38"
+src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white&height=30"
+width="30"
+height="30"
 alt="Stack Overflow">
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="YOUR_REDDIT_URL">
 <img
-src="https://api.iconify.design/simple-icons:reddit.svg?color=white&height=38"
-width="38"
-height="38"
+src="https://api.iconify.design/simple-icons:reddit.svg?color=white&height=30"
+width="30"
+height="30"
 alt="Reddit">
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="18"></td>
 
+<td align="center">
 <a href="mailto:sakthipranaash31@gmail.com">
 <img
-src="https://api.iconify.design/simple-icons:gmail.svg?color=white&height=38"
-width="38"
-height="38"
+src="https://api.iconify.design/simple-icons:gmail.svg?color=white&height=30"
+width="30"
+height="30"
 alt="Email">
 </a>
+</td>
 
-</p>
+</tr>
+</table>
 
 ## Software I Use
 
