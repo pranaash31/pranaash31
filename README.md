@@ -54,10 +54,10 @@ I also work with:
 
 <img
 src="./Data%20engineer%20associate.png"
-width="120"
+width="115"
 alt="AWS Certified Data Engineer - Associate">
 
-<br><br>
+<br>
 
 <strong>AWS Certified</strong><br>
 Data Engineer – Associate
@@ -68,10 +68,10 @@ Data Engineer – Associate
 
 <img
 src="./cloud%20practitioner.png"
-width="120"
+width="115"
 alt="AWS Certified Cloud Practitioner">
 
-<br><br>
+<br>
 
 <strong>AWS Certified</strong><br>
 Cloud Practitioner
@@ -82,10 +82,10 @@ Cloud Practitioner
 
 <img
 src="./Oracle%20gen%20ai.png"
-width="120"
+width="115"
 alt="Oracle Cloud Infrastructure 2024 Generative AI Certified Professional">
 
-<br><br>
+<br>
 
 <strong>Oracle Cloud</strong><br>
 OCI 2024 Generative AI Professional
@@ -96,10 +96,10 @@ OCI 2024 Generative AI Professional
 
 <img
 src="./google%20cybersecurity.png"
-width="120"
+width="115"
 alt="Google Cybersecurity Certificate">
 
-<br><br>
+<br>
 
 <strong>Google</strong><br>
 Cybersecurity Certificate
