@@ -114,27 +114,35 @@ Cybersecurity Certificate
 ## Social Links
 
 <p align="left">
-  <a href="https://github.com/pranaash31">
-    <img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="56" height="56" alt="GitHub"/>
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="56" height="56" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="56" height="56" alt="Instagram"/>
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_X_URL">
-    <img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="56" height="56" alt="X"/>
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_STACKOVERFLOW_URL">
-    <img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white" width="56" height="56" alt="Stack Overflow"/>
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_REDDIT_URL">
-    <img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="56" height="56" alt="Reddit"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:sakthipranaash31@gmail.com">
-    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="56" height="56" alt="Email"/>
-  </a>
+
+<a href="https://github.com/pranaash31" style="text-decoration:none;">
+<img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="56" height="56" alt="GitHub" style="display:block;">
+</a>&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN_URL" style="text-decoration:none;">
+<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="56" height="56" alt="LinkedIn" style="display:block;">
+</a>&nbsp;&nbsp;
+
+<a href="YOUR_INSTAGRAM_URL" style="text-decoration:none;">
+<img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="56" height="56" alt="Instagram" style="display:block;">
+</a>&nbsp;&nbsp;
+
+<a href="YOUR_X_URL" style="text-decoration:none;">
+<img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="56" height="56" alt="X" style="display:block;">
+</a>&nbsp;&nbsp;
+
+<a href="YOUR_STACKOVERFLOW_URL" style="text-decoration:none;">
+<img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white" width="56" height="56" alt="Stack Overflow" style="display:block;">
+</a>&nbsp;&nbsp;
+
+<a href="YOUR_REDDIT_URL" style="text-decoration:none;">
+<img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="56" height="56" alt="Reddit" style="display:block;">
+</a>&nbsp;&nbsp;
+
+<a href="mailto:sakthipranaash31@gmail.com" style="text-decoration:none;">
+<img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="56" height="56" alt="Email" style="display:block;">
+</a>
+
 </p>
 
 ## Software I Use
