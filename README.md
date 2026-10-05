@@ -113,65 +113,13 @@ Cybersecurity Certificate
 
 ## Social Links
 
-<table>
-<tr>
-
-<td>
-<a href="https://github.com/pranaash31">
-<img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="56" height="56" alt="GitHub">
-</a>
-</td>
-
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="56" height="56" alt="LinkedIn">
-</a>
-</td>
-
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="56" height="56" alt="Instagram">
-</a>
-</td>
-
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a href="YOUR_X_URL">
-<img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="56" height="56" alt="X">
-</a>
-</td>
-
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a href="YOUR_STACKOVERFLOW_URL">
-<img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white" width="56" height="56" alt="Stack Overflow">
-</a>
-</td>
-
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a href="YOUR_REDDIT_URL">
-<img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="56" height="56" alt="Reddit">
-</a>
-</td>
-
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a href="mailto:sakthipranaash31@gmail.com">
-<img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="56" height="56" alt="Email">
-</a>
-</td>
-
-</tr>
-</table>
+[<img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="52" alt="GitHub">](https://github.com/pranaash31)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="52" alt="LinkedIn">](YOUR_LINKEDIN_URL)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="52" alt="Instagram">](YOUR_INSTAGRAM_URL)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="52" alt="X">](YOUR_X_URL)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white" width="52" alt="Stack Overflow">](YOUR_STACKOVERFLOW_URL)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="52" alt="Reddit">](YOUR_REDDIT_URL)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="52" alt="Email">](mailto:sakthipranaash31@gmail.com)
 
 ## Software I Use
 
