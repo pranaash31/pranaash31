@@ -113,93 +113,29 @@ Cybersecurity Certificate
 
 ## Social Links
 
-<table>
-<tr>
-
-<td align="center">
-<a href="https://github.com/pranaash31">
-<img
-src="https://api.iconify.design/simple-icons:github.svg?color=white&height=30"
-width="30"
-height="30"
-alt="GitHub">
-</a>
-</td>
-
-<td width="18"></td>
-
-<td align="center">
-<a href="YOUR_LINKEDIN_URL">
-<img
-src="https://api.iconify.design/simple-icons:linkedin.svg?color=white&height=30"
-width="30"
-height="30"
-alt="LinkedIn">
-</a>
-</td>
-
-<td width="18"></td>
-
-<td align="center">
-<a href="YOUR_INSTAGRAM_URL">
-<img
-src="https://api.iconify.design/simple-icons:instagram.svg?color=white&height=30"
-width="30"
-height="30"
-alt="Instagram">
-</a>
-</td>
-
-<td width="18"></td>
-
-<td align="center">
-<a href="YOUR_X_URL">
-<img
-src="https://api.iconify.design/simple-icons:x.svg?color=white&height=30"
-width="30"
-height="30"
-alt="X">
-</a>
-</td>
-
-<td width="18"></td>
-
-<td align="center">
-<a href="YOUR_STACKOVERFLOW_URL">
-<img
-src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white&height=30"
-width="30"
-height="30"
-alt="Stack Overflow">
-</a>
-</td>
-
-<td width="18"></td>
-
-<td align="center">
-<a href="YOUR_REDDIT_URL">
-<img
-src="https://api.iconify.design/simple-icons:reddit.svg?color=white&height=30"
-width="30"
-height="30"
-alt="Reddit">
-</a>
-</td>
-
-<td width="18"></td>
-
-<td align="center">
-<a href="mailto:sakthipranaash31@gmail.com">
-<img
-src="https://api.iconify.design/simple-icons:gmail.svg?color=white&height=30"
-width="30"
-height="30"
-alt="Email">
-</a>
-</td>
-
-</tr>
-</table>
+<p align="left">
+  <a href="https://github.com/pranaash31">
+    <img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="56" height="56" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="56" height="56" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="56" height="56" alt="Instagram"/>
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_X_URL">
+    <img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="56" height="56" alt="X"/>
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_STACKOVERFLOW_URL">
+    <img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white" width="56" height="56" alt="Stack Overflow"/>
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_REDDIT_URL">
+    <img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="56" height="56" alt="Reddit"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:sakthipranaash31@gmail.com">
+    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="56" height="56" alt="Email"/>
+  </a>
+</p>
 
 ## Software I Use
 
