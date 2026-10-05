@@ -113,34 +113,69 @@ Cybersecurity Certificate
 
 ## Social Links
 
-<p align="left">
+<p align="left" style="line-height:0;">
 
-<a href="https://github.com/pranaash31" style="text-decoration:none;">
-<img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="56" height="56" alt="GitHub" style="display:block;">
-</a>&nbsp;&nbsp;
+<a href="https://github.com/pranaash31"
+   style="display:inline-block; text-decoration:none; border:0; line-height:0; vertical-align:middle;">
+<img src="https://api.iconify.design/simple-icons:github.svg?color=white"
+     width="56"
+     height="56"
+     alt="GitHub"
+     style="display:block; border:0;">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_LINKEDIN_URL" style="text-decoration:none;">
-<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="56" height="56" alt="LinkedIn" style="display:block;">
-</a>&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_URL"
+   style="display:inline-block; text-decoration:none; border:0; line-height:0; vertical-align:middle;">
+<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white"
+     width="56"
+     height="56"
+     alt="LinkedIn"
+     style="display:block; border:0;">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_INSTAGRAM_URL" style="text-decoration:none;">
-<img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="56" height="56" alt="Instagram" style="display:block;">
-</a>&nbsp;&nbsp;
+<a href="YOUR_INSTAGRAM_URL"
+   style="display:inline-block; text-decoration:none; border:0; line-height:0; vertical-align:middle;">
+<img src="https://api.iconify.design/simple-icons:instagram.svg?color=white"
+     width="56"
+     height="56"
+     alt="Instagram"
+     style="display:block; border:0;">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_X_URL" style="text-decoration:none;">
-<img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="56" height="56" alt="X" style="display:block;">
-</a>&nbsp;&nbsp;
+<a href="YOUR_X_URL"
+   style="display:inline-block; text-decoration:none; border:0; line-height:0; vertical-align:middle;">
+<img src="https://api.iconify.design/simple-icons:x.svg?color=white"
+     width="56"
+     height="56"
+     alt="X"
+     style="display:block; border:0;">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_STACKOVERFLOW_URL" style="text-decoration:none;">
-<img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white" width="56" height="56" alt="Stack Overflow" style="display:block;">
-</a>&nbsp;&nbsp;
+<a href="YOUR_STACKOVERFLOW_URL"
+   style="display:inline-block; text-decoration:none; border:0; line-height:0; vertical-align:middle;">
+<img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white"
+     width="56"
+     height="56"
+     alt="Stack Overflow"
+     style="display:block; border:0;">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_REDDIT_URL" style="text-decoration:none;">
-<img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="56" height="56" alt="Reddit" style="display:block;">
-</a>&nbsp;&nbsp;
+<a href="YOUR_REDDIT_URL"
+   style="display:inline-block; text-decoration:none; border:0; line-height:0; vertical-align:middle;">
+<img src="https://api.iconify.design/simple-icons:reddit.svg?color=white"
+     width="56"
+     height="56"
+     alt="Reddit"
+     style="display:block; border:0;">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:sakthipranaash31@gmail.com" style="text-decoration:none;">
-<img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="56" height="56" alt="Email" style="display:block;">
+<a href="mailto:sakthipranaash31@gmail.com"
+   style="display:inline-block; text-decoration:none; border:0; line-height:0; vertical-align:middle;">
+<img src="https://api.iconify.design/simple-icons:gmail.svg?color=white"
+     width="56"
+     height="56"
+     alt="Email"
+     style="display:block; border:0;">
 </a>
 
 </p>
