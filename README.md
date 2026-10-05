@@ -118,8 +118,9 @@ Cybersecurity Certificate
 [<img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="52" alt="Instagram">](https://www.instagram.com/x.pranaaxh.31/)&nbsp;&nbsp;&nbsp;
 [<img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="52" alt="X">](https://x.com/sakthipranaashv)&nbsp;&nbsp;&nbsp;
 [<img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white" width="52" alt="Stack Overflow">](YOUR_STACKOVERFLOW_URL)&nbsp;&nbsp;&nbsp;
-[<img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="52" alt="Reddit">](YOUR_REDDIT_URL)&nbsp;&nbsp;&nbsp;
-[<img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="52" alt="Email">](mailto:sakthipranaash31@gmail.com)
+[<img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="52" alt="Reddit">](https://www.reddit.com/user/pranaash31/)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="52" alt="Gmail">](mailto:sakthipranaash31@gmail.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=white" width="52" alt="AWS Builder Center">](https://builder.aws.com/profile?tab=badges)
 
 ## Software I Use
 
