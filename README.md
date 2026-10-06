@@ -29,9 +29,47 @@ These experiences have strengthened my problem-solving ability, technical depth,
 
 ## Technical Leadership
 
-I've taken leadership roles as Cloud Champ at the AWS Cloud Club and Technical Lead at the UiPath Students Club.
+<table>
+<tr>
 
-I enjoy working with teams, taking ownership of technical responsibilities, sharing knowledge, and helping turn ideas into working solutions.
+<td align="center" width="50%">
+
+<img
+src="./uzera.png"
+width="105"
+alt="UZERA PSNACET">
+
+<br>
+
+<strong>Technical Lead</strong><br>
+UiPath Students Club
+
+<br><br>
+
+I lead technical initiatives, support student projects, share technical knowledge, and help teams transform ideas into working solutions.
+
+</td>
+
+<td align="center" width="50%">
+
+<img
+src="./psna-aws-student-builder-group.png"
+width="105"
+alt="PSNA AWS Student Builder Group">
+
+<br>
+
+<strong>Cloud Champ</strong><br>
+PSNA AWS Student Builder Group
+
+<br><br>
+
+I contribute to cloud-focused initiatives, technical events, community activities, and collaborative learning around AWS technologies.
+
+</td>
+
+</tr>
+</table>
 
 ## Tech Stack
 
