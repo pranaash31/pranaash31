@@ -29,65 +29,71 @@ These experiences have strengthened my problem-solving ability, technical depth,
 
 ## Technical Leadership
 
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<img
-src="./uzera.png"
-width="150"
-alt="UiPath Students Club">
-
-<br><br>
-
-<strong>Technical Lead</strong>
+<p align="center">
+  <sub>LEADERSHIP · COMMUNITY · ENGINEERING</sub>
+</p>
 
 <br>
 
-<b>UiPath Students Club</b>
+<p align="center">
+  <img src="./uzera.png" width="190" alt="UiPath Students Club">
+</p>
 
-<br><br>
+<p align="center">
+  <strong>TECHNICAL LEAD</strong>
+  <br>
+  <sub>UiPath Students Club</sub>
+</p>
 
-Leading technical initiatives, mentoring peers, supporting student projects, and turning ideas into practical working solutions.
+<p align="center">
+  Leading technical initiatives, mentoring peers, supporting student projects,
+  and transforming ideas into practical working solutions.
+</p>
 
-<br><br>
+<p align="center">
+  <code>LEADERSHIP</code>
+  &nbsp;&nbsp;
+  <code>MENTORSHIP</code>
+  &nbsp;&nbsp;
+  <code>ENGINEERING</code>
+</p>
 
-<code>Leadership</code> &nbsp;
-<code>Mentorship</code> &nbsp;
-<code>Engineering</code>
+<p align="center">
+  │
+  <br>
+  │
+  <br>
+  ▼
+</p>
 
-</td>
+<p align="center">
+  <img src="./psna-aws-student-builder-group.png" width="190" alt="PSNA AWS Student Builder Group">
+</p>
 
-<td align="center" width="50%">
+<p align="center">
+  <strong>CLOUD CHAMP</strong>
+  <br>
+  <sub>PSNA AWS Student Builder Group</sub>
+</p>
 
-<img
-src="./psna-aws-student-builder-group.png"
-width="150"
-alt="PSNA AWS Student Builder Group">
+<p align="center">
+  Driving cloud-focused initiatives, technical activities, AWS learning,
+  and collaborative community building.
+</p>
 
-<br><br>
-
-<strong>Cloud Champ</strong>
+<p align="center">
+  <code>AWS</code>
+  &nbsp;&nbsp;
+  <code>CLOUD</code>
+  &nbsp;&nbsp;
+  <code>COMMUNITY</code>
+</p>
 
 <br>
 
-<b>PSNA AWS Student Builder Group</b>
-
-<br><br>
-
-Driving cloud-focused initiatives, technical events, community activities, and collaborative AWS learning.
-
-<br><br>
-
-<code>AWS</code> &nbsp;
-<code>Cloud</code> &nbsp;
-<code>Community</code>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <strong>BUILDING PEOPLE · BUILDING COMMUNITIES · BUILDING TECHNOLOGY</strong>
+</p>
 
 ## Tech Stack
 
