@@ -36,17 +36,26 @@ These experiences have strengthened my problem-solving ability, technical depth,
 
 <img
 src="./uzera.png"
-width="105"
-alt="UZERA PSNACET">
-
-<br>
-
-<strong>Technical Lead</strong><br>
-UiPath Students Club
+width="150"
+alt="UiPath Students Club">
 
 <br><br>
 
-I lead technical initiatives, support student projects, share technical knowledge, and help teams transform ideas into working solutions.
+<strong>Technical Lead</strong>
+
+<br>
+
+<b>UiPath Students Club</b>
+
+<br><br>
+
+Leading technical initiatives, mentoring peers, supporting student projects, and turning ideas into practical working solutions.
+
+<br><br>
+
+<code>Leadership</code> &nbsp;
+<code>Mentorship</code> &nbsp;
+<code>Engineering</code>
 
 </td>
 
@@ -54,17 +63,26 @@ I lead technical initiatives, support student projects, share technical knowledg
 
 <img
 src="./psna-aws-student-builder-group.png"
-width="105"
+width="150"
 alt="PSNA AWS Student Builder Group">
-
-<br>
-
-<strong>Cloud Champ</strong><br>
-PSNA AWS Student Builder Group
 
 <br><br>
 
-I contribute to cloud-focused initiatives, technical events, community activities, and collaborative learning around AWS technologies.
+<strong>Cloud Champ</strong>
+
+<br>
+
+<b>PSNA AWS Student Builder Group</b>
+
+<br><br>
+
+Driving cloud-focused initiatives, technical events, community activities, and collaborative AWS learning.
+
+<br><br>
+
+<code>AWS</code> &nbsp;
+<code>Cloud</code> &nbsp;
+<code>Community</code>
 
 </td>
 
