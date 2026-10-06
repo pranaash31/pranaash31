@@ -35,64 +35,72 @@ These experiences have strengthened my problem-solving ability, technical depth,
 
 <br>
 
-<p align="center">
-  <img src="./uzera.png" width="190" alt="UiPath Students Club">
-</p>
+<table align="center">
+<tr>
 
-<p align="center">
-  <strong>TECHNICAL LEAD</strong>
-  <br>
-  <sub>UiPath Students Club</sub>
-</p>
+<td align="center" width="50%">
 
-<p align="center">
-  Leading technical initiatives, mentoring peers, supporting student projects,
-  and transforming ideas into practical working solutions.
-</p>
-
-<p align="center">
-  <code>LEADERSHIP</code>
-  &nbsp;&nbsp;
-  <code>MENTORSHIP</code>
-  &nbsp;&nbsp;
-  <code>ENGINEERING</code>
-</p>
-
-<p align="center">
-  │
-  <br>
-  │
-  <br>
-  ▼
-</p>
-
-<p align="center">
-  <img src="./psna-aws-student-builder-group.png" width="190" alt="PSNA AWS Student Builder Group">
-</p>
-
-<p align="center">
-  <strong>CLOUD CHAMP</strong>
-  <br>
-  <sub>PSNA AWS Student Builder Group</sub>
-</p>
-
-<p align="center">
-  Driving cloud-focused initiatives, technical activities, AWS learning,
-  and collaborative community building.
-</p>
-
-<p align="center">
-  <code>AWS</code>
-  &nbsp;&nbsp;
-  <code>CLOUD</code>
-  &nbsp;&nbsp;
-  <code>COMMUNITY</code>
-</p>
+<img src="./uzera.png" width="155" alt="UiPath Students Club">
 
 <br>
 
+<strong>TECHNICAL LEAD</strong>
+
+<br>
+
+<sub>UiPath Students Club</sub>
+
+<br><br>
+
+<sub>
+Leading technical initiatives, mentoring peers,
+and turning ideas into working solutions.
+</sub>
+
+<br><br>
+
+<code>LEADERSHIP</code>
+&nbsp;
+<code>MENTORSHIP</code>
+&nbsp;
+<code>ENGINEERING</code>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="./psna-aws-student-builder-group.png" width="155" alt="PSNA AWS Student Builder Group">
+
+<br>
+
+<strong>CLOUD CHAMP</strong>
+
+<br>
+
+<sub>PSNA AWS Student Builder Group</sub>
+
+<br><br>
+
+<sub>
+Driving AWS initiatives, technical activities,
+and collaborative cloud learning.
+</sub>
+
+<br><br>
+
+<code>AWS</code>
+&nbsp;
+<code>CLOUD</code>
+&nbsp;
+<code>COMMUNITY</code>
+
+</td>
+
+</tr>
+</table>
+
 <p align="center">
-  <strong>BUILDING PEOPLE · BUILDING COMMUNITIES · BUILDING TECHNOLOGY</strong>
+  <sub>Building people · Building communities · Building technology</sub>
 </p>
 
 ## Tech Stack
