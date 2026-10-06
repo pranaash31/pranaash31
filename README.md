@@ -30,53 +30,83 @@ These experiences have strengthened my problem-solving ability, technical depth,
 ## Technical Leadership
 
 <p align="center">
-  <sub>LEAD · BUILD · EMPOWER</sub>
+  <sub>✦ LEADERSHIP / IMPACT ✦</sub>
 </p>
+
+<br>
 
 <table align="center">
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="47%">
 
-<img src="./uzera.png" width="135" alt="UiPath Students Club">
+<sup>01 / COMMUNITY</sup>
+
+<br><br>
+
+<img src="./uzera.png" width="165" alt="UiPath Students Club">
+
+<br><br>
+
+<sub>TECHNICAL LEAD</sub>
 
 <br>
 
-<strong>TECHNICAL LEAD</strong>
+<strong>UiPath Students Club</strong>
 
-<br>
+<br><br>
 
-<sub>UiPath Students Club</sub>
-
-<br>
-
-<sup>Mentoring · Engineering · Innovation</sup>
+<sub><i>Lead · Mentor · Build</i></sub>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="6%">
 
-<img src="./psna-aws-student-builder-group.png" width="135" alt="PSNA AWS Student Builder Group">
+<strong>✦</strong>
+
+<br><br>
+
+<strong>×</strong>
+
+<br><br>
+
+<strong>✦</strong>
+
+</td>
+
+<td align="center" width="47%">
+
+<sup>02 / CLOUD</sup>
+
+<br><br>
+
+<img src="./psna-aws-student-builder-group.png" width="165" alt="PSNA AWS Student Builder Group">
+
+<br><br>
+
+<sub>CLOUD CHAMP</sub>
 
 <br>
 
-<strong>CLOUD CHAMP</strong>
+<strong>PSNA AWS Student Builder Group</strong>
 
-<br>
+<br><br>
 
-<sub>PSNA AWS Student Builder Group</sub>
-
-<br>
-
-<sup>AWS · Cloud · Community</sup>
+<sub><i>Cloud · Connect · Create</i></sub>
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
 <p align="center">
-  <sub><b>Turning ideas into action. Empowering people through technology.</b></sub>
+  <strong>LEADING WITH TECHNOLOGY · CREATING WITH PURPOSE</strong>
+</p>
+
+<p align="center">
+  <sub>Mentorship &nbsp;•&nbsp; Engineering &nbsp;•&nbsp; Community &nbsp;•&nbsp; Innovation</sub>
 </p>
 
 ## Tech Stack
