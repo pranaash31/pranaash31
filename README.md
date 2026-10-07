@@ -29,20 +29,12 @@ These experiences have strengthened my problem-solving ability, technical depth,
 
 ## Technical Leadership
 
-<p align="center">
-  <sub>LEADERSHIP · ENGINEERING · COMMUNITY</sub>
-</p>
-
 <table width="100%">
 <tr>
 
 <td align="center" width="50%">
 
-<sub>01 · CLOUD</sub>
-
-<br>
-
-<img src="./psna-aws-student-builder-group.png" width="160" alt="PSNA AWS Student Builder Group">
+<img src="./psna-aws-student-builder-group.png" width="170" alt="PSNA AWS Student Builder Group">
 
 <br>
 
@@ -50,25 +42,17 @@ These experiences have strengthened my problem-solving ability, technical depth,
 
 <br>
 
-<b>PSNA AWS Student Builder Group</b>
+<sub>PSNA AWS Student Builder Group</sub>
 
 <br>
 
-<sub><i>Connect · Build · Scale</i></sub>
-
-<br>
-
-<code>AWS</code> · <code>CLOUD</code> · <code>COMMUNITY</code>
+<sup>Cloud Leadership · AWS Community</sup>
 
 </td>
 
 <td align="center" width="50%">
 
-<sub>02 · AUTOMATION</sub>
-
-<br>
-
-<img src="./uzera.png" width="160" alt="UiPath Students Club">
+<img src="./uzera.png" width="170" alt="UiPath Students Club">
 
 <br>
 
@@ -76,24 +60,16 @@ These experiences have strengthened my problem-solving ability, technical depth,
 
 <br>
 
-<b>UiPath Students Club</b>
+<sub>UiPath Students Club</sub>
 
 <br>
 
-<sub><i>Lead · Mentor · Innovate</i></sub>
-
-<br>
-
-<code>ENGINEERING</code> · <code>MENTORSHIP</code> · <code>INNOVATION</code>
+<sup>Technical Leadership · Mentorship</sup>
 
 </td>
 
 </tr>
 </table>
-
-<p align="center">
-  <sub><b>BUILD WITH PURPOSE · LEAD WITH IMPACT</b></sub>
-</p>
 
 ## Tech Stack
 
