@@ -30,123 +30,69 @@ These experiences have strengthened my problem-solving ability, technical depth,
 ## Technical Leadership
 
 <p align="center">
-  <strong>LEADERSHIP · ENGINEERING · COMMUNITY</strong>
-  <br>
-  <sub>Turning technical vision into collective impact.</sub>
+  <sub>LEADERSHIP · ENGINEERING · COMMUNITY</sub>
 </p>
-
-<br>
 
 <table width="100%">
 <tr>
 
-<td align="center" width="47%">
+<td align="center" width="50%">
 
-<sub>01&nbsp;&nbsp;/&nbsp;&nbsp;CLOUD LEADERSHIP</sub>
-
-<br><br>
-
-<img
-src="./psna-aws-student-builder-group.png"
-width="200"
-alt="PSNA AWS Student Builder Group">
+<sub>01 · CLOUD</sub>
 
 <br>
 
-<strong>☁ CLOUD CHAMP</strong>
+<img src="./psna-aws-student-builder-group.png" width="160" alt="PSNA AWS Student Builder Group">
+
+<br>
+
+<strong>CLOUD CHAMP</strong>
 
 <br>
 
 <b>PSNA AWS Student Builder Group</b>
 
-<br><br>
+<br>
 
 <sub><i>Connect · Build · Scale</i></sub>
 
 <br>
 
-<sup>
-Driving AWS initiatives, enabling hands-on learning,
-and growing a stronger cloud community.
-</sup>
-
-<br><br>
-
-<code>AWS</code>
-&nbsp;
-<code>CLOUD</code>
-&nbsp;
-<code>COMMUNITY</code>
+<code>AWS</code> · <code>CLOUD</code> · <code>COMMUNITY</code>
 
 </td>
 
-<td align="center" width="6%">
+<td align="center" width="50%">
 
-<br><br><br><br>
-
-<strong>✦</strong>
+<sub>02 · AUTOMATION</sub>
 
 <br>
 
-<sub>×</sub>
+<img src="./uzera.png" width="160" alt="UiPath Students Club">
 
 <br>
 
-<strong>✦</strong>
-
-</td>
-
-<td align="center" width="47%">
-
-<sub>02&nbsp;&nbsp;/&nbsp;&nbsp;TECHNICAL LEADERSHIP</sub>
-
-<br><br>
-
-<img
-src="./uzera.png"
-width="200"
-alt="UiPath Students Club">
-
-<br>
-
-<strong>⚡ TECHNICAL LEAD</strong>
+<strong>TECHNICAL LEAD</strong>
 
 <br>
 
 <b>UiPath Students Club</b>
 
-<br><br>
+<br>
 
 <sub><i>Lead · Mentor · Innovate</i></sub>
 
 <br>
 
-<sup>
-Leading technical initiatives, mentoring peers,
-and transforming ideas into working solutions.
-</sup>
-
-<br><br>
-
-<code>ENGINEERING</code>
-&nbsp;
-<code>MENTORSHIP</code>
-&nbsp;
-<code>INNOVATION</code>
+<code>ENGINEERING</code> · <code>MENTORSHIP</code> · <code>INNOVATION</code>
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 <p align="center">
-  <strong>BUILD WITH PURPOSE&nbsp;&nbsp; · &nbsp;&nbsp;LEAD WITH IMPACT</strong>
-</p>
-
-<p align="center">
-  <sub>Cloud · Engineering · Mentorship · Innovation</sub>
+  <sub><b>BUILD WITH PURPOSE · LEAD WITH IMPACT</b></sub>
 </p>
 
 ## Tech Stack
