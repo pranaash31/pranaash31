@@ -33,19 +33,31 @@ These experiences have strengthened my problem-solving ability, technical depth,
 <tr>
 
 <td align="center" width="50%" valign="top">
+
 <img src="./psna-aws-student-builder-group.png" width="155" alt="PSNA AWS Student Builder Group">
+
 <br>
-<strong>☁ CLOUD CHAMP</strong>
+
+<strong>CLOUD CHAMP</strong>
+
 <br>
+
 <sub>PSNA AWS Student Builder Group</sub>
+
 </td>
 
 <td align="center" width="50%" valign="top">
+
 <img src="./uzera.png" width="155" alt="UiPath Students Club">
+
 <br>
-<strong>⚡ TECHNICAL LEAD</strong>
+
+<strong>TECHNICAL LEAD</strong>
+
 <br>
+
 <sub>UiPath Students Club</sub>
+
 </td>
 
 </tr>
