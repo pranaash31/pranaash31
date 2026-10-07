@@ -34,7 +34,7 @@ These experiences have strengthened my problem-solving ability, technical depth,
 
 <td align="center" width="50%" valign="top">
 
-<img src="./psna-aws-student-builder-group.png" width="155" alt="PSNA AWS Student Builder Group" style="position:relative;top:2px;">
+<img src="./psna-aws-student-builder-group.png" width="155" alt="PSNA AWS Student Builder Group" style="position:relative;top:3px;">
 
 <br>
 
