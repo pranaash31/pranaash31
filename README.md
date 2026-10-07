@@ -29,65 +29,27 @@ These experiences have strengthened my problem-solving ability, technical depth,
 
 ## Technical Leadership
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 
-<td align="center" width="49%">
-
-<img src="./psna-aws-student-builder-group.png" width="185" alt="PSNA AWS Student Builder Group">
-
-<br><br>
-
-<sub>CLOUD</sub>
-
+<td align="center" width="50%" valign="top">
+<img src="./psna-aws-student-builder-group.png" width="155" alt="PSNA AWS Student Builder Group">
 <br>
-
 <strong>☁ CLOUD CHAMP</strong>
-
 <br>
-
-<b>PSNA AWS Student Builder Group</b>
-
-<br>
-
-<sup>Build · Connect · Scale</sup>
-
+<sub>PSNA AWS Student Builder Group</sub>
 </td>
 
-<td align="center" width="2%">
-
-<strong>✦</strong>
-
-</td>
-
-<td align="center" width="49%">
-
-<img src="./uzera.png" width="185" alt="UiPath Students Club">
-
-<br><br>
-
-<sub>AUTOMATION</sub>
-
+<td align="center" width="50%" valign="top">
+<img src="./uzera.png" width="155" alt="UiPath Students Club">
 <br>
-
 <strong>⚡ TECHNICAL LEAD</strong>
-
 <br>
-
-<b>UiPath Students Club</b>
-
-<br>
-
-<sup>Lead · Mentor · Innovate</sup>
-
+<sub>UiPath Students Club</sub>
 </td>
 
 </tr>
 </table>
-
-<p align="center">
-  <sub>LEADING TECHNOLOGY · EMPOWERING PEOPLE</sub>
-</p>
 
 ## Tech Stack
 
