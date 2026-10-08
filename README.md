@@ -9,7 +9,7 @@ Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine L
 - I've worked on an automated job intelligence pipeline aggregating opportunities from 10+ recruitment platforms, reducing manual job discovery effort by 70%.
 - I enjoy solving challenging programming problems and have solved 400+ problems on LeetCode while continuously strengthening my Data Structures and Algorithms fundamentals.
 - I'm interested in the intersection of Artificial Intelligence and Software Engineering, particularly systems that transform complex problems into practical and scalable solutions.
-- I enjoy participating in hackathons, technical communities, and collaborative engineering environments where I can learn, contribute, and build.
+- I enjoy participating in hackathons, technical communities, and collaborative engineering environments where I can learn, contribute, and build
 
 ## Artificial Intelligence & Machine Learning Engineer
 
