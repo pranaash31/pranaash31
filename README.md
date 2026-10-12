@@ -31,35 +31,28 @@ These experiences have strengthened my problem-solving ability, technical depth,
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-
-<td align="center" width="50%" valign="top">
-
-<img src="./psna-aws-student-builder-group.png" width="155" alt="PSNA AWS Student Builder Group" style="position:relative;top:3px;">
-
-<br>
-
+<td align="center" width="50%" height="120" valign="middle">
+<img src="./psna-aws-student-builder-group.png" width="155" height="90" alt="PSNA AWS Student Builder Group">
+</td>
+<td align="center" width="50%" height="120" valign="middle">
+<img src="./uzera.png" width="155" height="90" alt="UiPath Students Club">
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 <strong>CLOUD CHAMP</strong>
-
-<br>
-
-<sub>PSNA AWS Student Builder Group</sub>
-
 </td>
-
-<td align="center" width="50%" valign="top">
-
-<img src="./uzera.png" width="155" alt="UiPath Students Club">
-
-<br>
-
+<td align="center" width="50%">
 <strong>TECHNICAL LEAD</strong>
-
-<br>
-
-<sub>UiPath Students Club</sub>
-
 </td>
-
+</tr>
+<tr>
+<td align="center" width="50%">
+<sub>PSNA AWS Student Builder Group</sub>
+</td>
+<td align="center" width="50%">
+<sub>UiPath Students Club</sub>
+</td>
 </tr>
 </table>
 
