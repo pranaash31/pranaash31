@@ -1,4 +1,4 @@
-<img width="1223" height="348" alt="Sakthi Pranaash V" src="https://github.com/user-attachments/assets/d91231bd-a949-40ce-9eaa-3da5204d7f8b" />
+<img width="1223" height="348" alt="Sakthi Pranaash V" src="https://github.com/user-attachments/assets/56f34a73-c23e-4d13-a5ef-f68e044a6d7d" />
 
 Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in Machine Learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical.
 
