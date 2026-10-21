@@ -1,6 +1,6 @@
 <img width="1223" height="348" alt="Sakthi Pranaash V" src="https://github.com/pranaash31/pranaash31/blob/main/wallie.png" />
 
-Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in Machine Learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical.
+Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in Machine Learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical challenges.
 
 ## About Me
 
@@ -143,13 +143,14 @@ Cybersecurity Certificate
 
 ## Social Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranaash31)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthipranaash31/)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.pranaaxh.31/)&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sakthipranaashv)&nbsp;&nbsp;
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/pranaash31/)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthipranaash31@gmail.com)&nbsp;&nbsp;
-[![AWS Builder Center](https://img.shields.io/badge/AWS%20Builder%20Center-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/profile?tab=badges)
+[<img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="52" alt="GitHub">](https://github.com/pranaash31)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="52" alt="LinkedIn">](https://www.linkedin.com/in/sakthipranaash31/)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="52" alt="Instagram">](https://www.instagram.com/x.pranaaxh.31/)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="52" alt="X">](https://x.com/sakthipranaashv)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white" width="52" alt="Stack Overflow">](YOUR_STACKOVERFLOW_URL)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="52" alt="Reddit">](https://www.reddit.com/user/pranaash31/)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="52" alt="Gmail">](mailto:sakthipranaash31@gmail.com)&nbsp;&nbsp;&nbsp;
+[<img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=white" width="52" alt="AWS Builder Center">](https://builder.aws.com/profile?tab=badges)
 
 ## Software I Use
 
