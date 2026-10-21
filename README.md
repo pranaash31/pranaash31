@@ -145,25 +145,25 @@ Cybersecurity Certificate
 
 <p align="left">
   <a href="https://github.com/pranaash31">
-    <img src="https://cdn.simpleicons.org/github/9FE870" width="32" alt="GitHub">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="34" height="34" alt="GitHub">
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sakthipranaash31/">
-    <img src="https://cdn.simpleicons.org/linkedin/9FE870" width="32" alt="LinkedIn">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="34" height="34" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/x.pranaaxh.31/">
-    <img src="https://cdn.simpleicons.org/instagram/9FE870" width="32" alt="Instagram">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="34" height="34" alt="Instagram">
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/sakthipranaashv">
-    <img src="https://cdn.simpleicons.org/x/9FE870" width="32" alt="X">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="34" height="34" alt="X">
+  </a>&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/pranaash31/">
-    <img src="https://cdn.simpleicons.org/reddit/9FE870" width="32" alt="Reddit">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="34" height="34" alt="Reddit">
+  </a>&nbsp;&nbsp;
   <a href="mailto:sakthipranaash31@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/9FE870" width="32" alt="Email">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="34" height="34" alt="Email">
+  </a>&nbsp;&nbsp;
   <a href="https://builder.aws.com/profile?tab=badges">
-    <img src="https://cdn.simpleicons.org/amazonaws/9FE870" width="32" alt="AWS Builder Center">
+    <img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=white" width="34" height="34" alt="AWS Builder Center">
   </a>
 </p>
 
