@@ -1,6 +1,6 @@
-<img width="1223" height="348" alt="Sakthi Pranaash V" src="https://github.com/pranaash31/pranaash31/blob/main/wallie.png" />
+<img width="1223" height="348" alt="Sakthi Pranaash V" src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/wallie.png" />
 
-Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in Machine Learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical.
+Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in Machine Learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical challenges.
 
 ## About Me
 
@@ -75,7 +75,7 @@ I also work with:
 
 `Scikit-learn` · `NumPy` · `Pandas` · `Transformers` · `LangChain` · `RAG` · `Prompt Engineering` · `AI Agents` · `Power BI`
 
-## 📜 Certifications
+## Certifications
 
 <table>
 <tr>
@@ -143,46 +143,164 @@ Cybersecurity Certificate
 
 ## Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/pranaash31">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" height="34" alt="GitHub">
-</a>&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/github.svg" width="48" height="48" alt="GitHub">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sakthipranaash31/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn">
-</a>&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/linkedin.svg" width="48" height="48" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/x.pranaaxh.31/">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" height="34" alt="Instagram">
-</a>&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/instagram.svg" width="48" height="48" alt="Instagram">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/sakthipranaashv">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" height="34" alt="X">
-</a>&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/x.svg" width="48" height="48" alt="X">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_STACKOVERFLOW_URL">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/stackoverflow.svg" width="48" height="48" alt="Stack Overflow">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.reddit.com/user/pranaash31/">
-<img src="https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=white" height="34" alt="Reddit">
-</a>&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/reddit.svg" width="48" height="48" alt="Reddit">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:sakthipranaash31@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Email">
-</a>&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/gmail.svg" width="48" height="48" alt="Gmail">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://builder.aws.com/profile?tab=badges">
-<img src="https://img.shields.io/badge/AWS%20Builder%20Center-0D1117?style=for-the-badge&logo=amazonaws&logoColor=white" height="34" alt="AWS Builder Center">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/amazonaws.svg" width="48" height="48" alt="AWS Builder Center">
 </a>
 
 </p>
 
 ## Software I Use
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <sub>ENGINEERING · DEVELOPMENT · PRODUCTIVITY</sub>
+</p>
+
+<table align="center" width="100%" cellpadding="8" cellspacing="0">
+<tr>
+
+<td align="center" width="16.66%">
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/visualstudiocode.svg" width="38" height="38" alt="Visual Studio Code">
+</a>
+<br>
+<sub><b>VS Code</b></sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://www.jetbrains.com/idea/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/intellijidea.svg" width="38" height="38" alt="IntelliJ IDEA">
+</a>
+<br>
+<sub><b>IntelliJ IDEA</b></sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/git.svg" width="38" height="38" alt="Git">
+</a>
+<br>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://www.docker.com/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/docker.svg" width="38" height="38" alt="Docker">
+</a>
+<br>
+<sub><b>Docker</b></sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://www.postman.com/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/postman.svg" width="38" height="38" alt="Postman">
+</a>
+<br>
+<sub><b>Postman</b></sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://www.linux.org/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/linux.svg" width="38" height="38" alt="Linux">
+</a>
+<br>
+<sub><b>Linux</b></sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="16.66%">
+<a href="https://github.com/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/github.svg" width="38" height="38" alt="GitHub">
+</a>
+<br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://aws.amazon.com/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/amazonaws.svg" width="38" height="38" alt="AWS">
+</a>
+<br>
+<sub><b>AWS</b></sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://www.jetbrains.com/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/jetbrains.svg" width="38" height="38" alt="JetBrains">
+</a>
+<br>
+<sub><b>JetBrains</b></sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://www.google.com/chrome/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/googlechrome.svg" width="38" height="38" alt="Google Chrome">
+</a>
+<br>
+<sub><b>Chrome</b></sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://www.notion.so/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/notion.svg" width="38" height="38" alt="Notion">
+</a>
+<br>
+<sub><b>Notion</b></sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://www.figma.com/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16.35.0/icons/figma.svg" width="38" height="38" alt="Figma">
+</a>
+<br>
+<sub><b>Figma</b></sub>
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <sub>BUILD · SHIP · ITERATE</sub>
+</p>
 
 ## Currently
 
