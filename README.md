@@ -1,6 +1,6 @@
 <img width="1223" height="348" alt="Sakthi Pranaash V" src="https://github.com/pranaash31/pranaash31/blob/main/wallie.png" />
 
-Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in Machine Learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical.
+Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in Machine Learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical challenges.
 
 ## About Me
 
@@ -75,7 +75,7 @@ I also work with:
 
 `Scikit-learn` · `NumPy` · `Pandas` · `Transformers` · `LangChain` · `RAG` · `Prompt Engineering` · `AI Agents` · `Power BI`
 
-## 📜 Certifications
+## Certifications
 
 <table>
 <tr>
@@ -144,39 +144,44 @@ Cybersecurity Certificate
 ## Connect
 
 <p align="left">
-
 <a href="https://github.com/pranaash31">
-<img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="78" height="78" alt="GitHub">
-</a>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="52" height="52" alt="GitHub">
+</a>
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sakthipranaash31/">
-<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="78" height="78" alt="LinkedIn">
-</a>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="52" height="52" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/x.pranaaxh.31/">
-<img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="78" height="78" alt="Instagram">
-</a>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="52" height="52" alt="Instagram">
+</a>
+&nbsp;&nbsp;
 
 <a href="https://x.com/sakthipranaashv">
-<img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="78" height="78" alt="X">
-</a>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/x/FFFFFF" width="52" height="52" alt="X">
+</a>
+&nbsp;&nbsp;
 
-<a href="YOUR_STACKOVERFLOW_URL">
-<img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white" width="78" height="78" alt="Stack Overflow">
-</a>&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/">
+<img src="https://cdn.simpleicons.org/stackoverflow/FFFFFF" width="52" height="52" alt="Stack Overflow">
+</a>
+&nbsp;&nbsp;
 
 <a href="https://www.reddit.com/user/pranaash31/">
-<img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="78" height="78" alt="Reddit">
-</a>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/reddit/FFFFFF" width="52" height="52" alt="Reddit">
+</a>
+&nbsp;&nbsp;
 
 <a href="mailto:sakthipranaash31@gmail.com">
-<img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="78" height="78" alt="Email">
-</a>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="52" height="52" alt="Email">
+</a>
+&nbsp;&nbsp;
 
 <a href="https://builder.aws.com/profile?tab=badges">
-<img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=white" width="78" height="78" alt="AWS Builder Center">
+<img src="https://cdn.simpleicons.org/amazonwebservices/FFFFFF" width="52" height="52" alt="AWS Builder Center">
 </a>
-
 </p>
 
 ## Software I Use
