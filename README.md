@@ -141,41 +141,18 @@ Cybersecurity Certificate
 
 ---
 
-## Connect
+## Social Links
 
 <p align="left">
 
-<a href="https://github.com/pranaash31">
-<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/github.svg" width="52" height="52" alt="GitHub">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/sakthipranaash31/">
-<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/linkedin.svg" width="52" height="52" alt="LinkedIn">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/x.pranaaxh.31/">
-<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/instagram.svg" width="52" height="52" alt="Instagram">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/sakthipranaashv">
-<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/x.svg" width="52" height="52" alt="X">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://stackoverflow.com/users/your-id">
-<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/stackoverflow.svg" width="52" height="52" alt="Stack Overflow">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.reddit.com/user/pranaash31/">
-<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/reddit.svg" width="52" height="52" alt="Reddit">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:sakthipranaash31@gmail.com">
-<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/gmail.svg" width="52" height="52" alt="Email">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://builder.aws.com/profile?tab=badges">
-<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/aws.svg" width="52" height="52" alt="AWS Builder Center">
-</a>
+<a href="https://github.com/pranaash31"><img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/github.svg" width="48" height="48" alt="GitHub"></a>&nbsp;
+<a href="https://www.linkedin.com/in/sakthipranaash31/"><img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/linkedin.svg" width="48" height="48" alt="LinkedIn"></a>&nbsp;
+<a href="https://www.instagram.com/x.pranaaxh.31/"><img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/instagram.svg" width="48" height="48" alt="Instagram"></a>&nbsp;
+<a href="https://x.com/sakthipranaashv"><img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/x.svg" width="48" height="48" alt="X"></a>&nbsp;
+<a href="https://stackoverflow.com/users/your-id"><img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/stackoverflow.svg" width="48" height="48" alt="Stack Overflow"></a>&nbsp;
+<a href="https://www.reddit.com/user/pranaash31/"><img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/reddit.svg" width="48" height="48" alt="Reddit"></a>&nbsp;
+<a href="mailto:sakthipranaash31@gmail.com"><img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/gmail.svg" width="48" height="48" alt="Email"></a>&nbsp;
+<a href="https://builder.aws.com/profile?tab=badges"><img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/aws.svg" width="48" height="48" alt="AWS Builder Center"></a>
 
 </p>
 
