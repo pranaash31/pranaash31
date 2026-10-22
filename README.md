@@ -144,44 +144,39 @@ Cybersecurity Certificate
 ## Connect
 
 <p align="left">
+
 <a href="https://github.com/pranaash31">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="52" height="52" alt="GitHub">
-</a>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/github.svg" width="52" height="52" alt="GitHub">
+</a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sakthipranaash31/">
-<img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="52" height="52" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/linkedin.svg" width="52" height="52" alt="LinkedIn">
+</a>&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/x.pranaaxh.31/">
-<img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="52" height="52" alt="Instagram">
-</a>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/instagram.svg" width="52" height="52" alt="Instagram">
+</a>&nbsp;&nbsp;
 
 <a href="https://x.com/sakthipranaashv">
-<img src="https://cdn.simpleicons.org/x/FFFFFF" width="52" height="52" alt="X">
-</a>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/x.svg" width="52" height="52" alt="X">
+</a>&nbsp;&nbsp;
 
 <a href="https://stackoverflow.com/">
-<img src="https://cdn.simpleicons.org/stackoverflow/FFFFFF" width="52" height="52" alt="Stack Overflow">
-</a>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/stackoverflow.svg" width="52" height="52" alt="Stack Overflow">
+</a>&nbsp;&nbsp;
 
 <a href="https://www.reddit.com/user/pranaash31/">
-<img src="https://cdn.simpleicons.org/reddit/FFFFFF" width="52" height="52" alt="Reddit">
-</a>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/reddit.svg" width="52" height="52" alt="Reddit">
+</a>&nbsp;&nbsp;
 
 <a href="mailto:sakthipranaash31@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="52" height="52" alt="Email">
-</a>
-&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/gmail.svg" width="52" height="52" alt="Email">
+</a>&nbsp;&nbsp;
 
 <a href="https://builder.aws.com/profile?tab=badges">
-<img src="https://cdn.simpleicons.org/amazonwebservices/FFFFFF" width="52" height="52" alt="AWS Builder Center">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/amazonwebservices.svg" width="52" height="52" alt="AWS Builder Center">
 </a>
+
 </p>
 
 ## Software I Use
