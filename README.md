@@ -146,47 +146,51 @@ Cybersecurity Certificate
 <p align="left">
 
 <a href="https://github.com/pranaash31">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/github.svg" width="52" height="52" alt="GitHub">
-</a>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/github.svg" width="52" height="52" alt="GitHub">
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sakthipranaash31/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/linkedin.svg" width="52" height="52" alt="LinkedIn">
-</a>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/linkedin.svg" width="52" height="52" alt="LinkedIn">
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/x.pranaaxh.31/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/instagram.svg" width="52" height="52" alt="Instagram">
-</a>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/instagram.svg" width="52" height="52" alt="Instagram">
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/sakthipranaashv">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/x.svg" width="52" height="52" alt="X">
-</a>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/x.svg" width="52" height="52" alt="X">
+</a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://stackoverflow.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/stackoverflow.svg" width="52" height="52" alt="Stack Overflow">
-</a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/your-id">
+<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/stackoverflow.svg" width="52" height="52" alt="Stack Overflow">
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.reddit.com/user/pranaash31/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/reddit.svg" width="52" height="52" alt="Reddit">
-</a>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/reddit.svg" width="52" height="52" alt="Reddit">
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:sakthipranaash31@gmail.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/gmail.svg" width="52" height="52" alt="Email">
-</a>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/gmail.svg" width="52" height="52" alt="Email">
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://builder.aws.com/profile?tab=badges">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.35.0/icons/amazonwebservices.svg" width="52" height="52" alt="AWS Builder Center">
+<img src="https://raw.githubusercontent.com/pranaash31/pranaash31/main/aws.svg" width="52" height="52" alt="AWS Builder Center">
 </a>
 
 </p>
 
 ## Software I Use
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/GNU%2FLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+<p align="left">
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+<img src="https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/GNU%2FLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white" alt="GNU/Linux">
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+
+</p>
 
 ## Currently
 
