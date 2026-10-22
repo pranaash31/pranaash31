@@ -144,30 +144,39 @@ Cybersecurity Certificate
 ## Connect
 
 <p align="left">
-  <a href="https://github.com/pranaash31" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="80" height="80" alt="GitHub">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sakthipranaash31/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="80" height="80" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/x.pranaaxh.31/" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="80" height="80" alt="Instagram">
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/sakthipranaashv" title="X">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="80" height="80" alt="X">
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_STACKOVERFLOW_URL" title="Stack Overflow">
-    <img src="https://cdn.simpleicons.org/stackoverflow/FFFFFF" width="80" height="80" alt="Stack Overflow">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/pranaash31/" title="Reddit">
-    <img src="https://cdn.simpleicons.org/reddit/FFFFFF" width="80" height="80" alt="Reddit">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:sakthipranaash31@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="80" height="80" alt="Email">
-  </a>&nbsp;&nbsp;
-  <a href="https://builder.aws.com/profile?tab=badges" title="AWS Builder Center">
-    <img src="https://cdn.simpleicons.org/amazonaws/FFFFFF" width="80" height="80" alt="AWS Builder Center">
-  </a>
+
+<a href="https://github.com/pranaash31">
+<img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="78" height="78" alt="GitHub">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/sakthipranaash31/">
+<img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" width="78" height="78" alt="LinkedIn">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/x.pranaaxh.31/">
+<img src="https://api.iconify.design/simple-icons:instagram.svg?color=white" width="78" height="78" alt="Instagram">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/sakthipranaashv">
+<img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="78" height="78" alt="X">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_STACKOVERFLOW_URL">
+<img src="https://api.iconify.design/simple-icons:stackoverflow.svg?color=white" width="78" height="78" alt="Stack Overflow">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.reddit.com/user/pranaash31/">
+<img src="https://api.iconify.design/simple-icons:reddit.svg?color=white" width="78" height="78" alt="Reddit">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:sakthipranaash31@gmail.com">
+<img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" width="78" height="78" alt="Email">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://builder.aws.com/profile?tab=badges">
+<img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=white" width="78" height="78" alt="AWS Builder Center">
+</a>
+
 </p>
 
 ## Software I Use
