@@ -144,35 +144,30 @@ Cybersecurity Certificate
 ## Connect
 
 <p align="left">
-
-<a href="https://github.com/pranaash31">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" height="34" alt="GitHub">
-</a>&nbsp;
-
-<a href="https://www.linkedin.com/in/sakthipranaash31/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn">
-</a>&nbsp;
-
-<a href="https://www.instagram.com/x.pranaaxh.31/">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" height="34" alt="Instagram">
-</a>&nbsp;
-
-<a href="https://x.com/sakthipranaashv">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" height="34" alt="X">
-</a>&nbsp;
-
-<a href="https://www.reddit.com/user/pranaash31/">
-<img src="https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=white" height="34" alt="Reddit">
-</a>&nbsp;
-
-<a href="mailto:sakthipranaash31@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Email">
-</a>&nbsp;
-
-<a href="https://builder.aws.com/profile?tab=badges">
-<img src="https://img.shields.io/badge/AWS%20Builder%20Center-0D1117?style=for-the-badge&logo=amazonaws&logoColor=white" height="34" alt="AWS Builder Center">
-</a>
-
+  <a href="https://github.com/pranaash31" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="80" height="80" alt="GitHub">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sakthipranaash31/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="80" height="80" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/x.pranaaxh.31/" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="80" height="80" alt="Instagram">
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/sakthipranaashv" title="X">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="80" height="80" alt="X">
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_STACKOVERFLOW_URL" title="Stack Overflow">
+    <img src="https://cdn.simpleicons.org/stackoverflow/FFFFFF" width="80" height="80" alt="Stack Overflow">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/pranaash31/" title="Reddit">
+    <img src="https://cdn.simpleicons.org/reddit/FFFFFF" width="80" height="80" alt="Reddit">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:sakthipranaash31@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="80" height="80" alt="Email">
+  </a>&nbsp;&nbsp;
+  <a href="https://builder.aws.com/profile?tab=badges" title="AWS Builder Center">
+    <img src="https://cdn.simpleicons.org/amazonaws/FFFFFF" width="80" height="80" alt="AWS Builder Center">
+  </a>
 </p>
 
 ## Software I Use
