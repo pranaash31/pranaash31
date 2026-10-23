@@ -1,172 +1,84 @@
 <img width="1223" height="348" alt="Sakthi Pranaash V" src="https://github.com/pranaash31/pranaash31/blob/main/wallie.png" />
 
 <p align="center">
-  <strong>Software Engineer</strong>
-  &nbsp; · &nbsp;
-  <strong>AI / ML Engineer</strong>
-  &nbsp; · &nbsp;
-  <strong>Generative AI</strong>
-  &nbsp; · &nbsp;
-  <strong>Backend Engineering</strong>
-</p>
-
-<p align="center">
+  <br>
+  <span style="font-size:26px;">
+    <strong>Turning Ideas Into Intelligent Systems</strong>
+  </span>
+  <br><br>
+  <span style="color:#8B949E;">
+    I build, experiment, and engineer solutions at the intersection of
+    <strong>software, data, and emerging technology.</strong>
+  </span>
+  <br><br>
   <a href="https://github.com/pranaash31">
-    <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering">
+    <img src="https://img.shields.io/badge/BUILD-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF" alt="Build">
   </a>
-  <a href="https://scikit-learn.org/">
-    <img src="https://img.shields.io/badge/AI%20%26%20MACHINE%20LEARNING-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="AI and Machine Learning">
+  <a href="https://github.com/pranaash31">
+    <img src="https://img.shields.io/badge/EXPLORE-0D1117?style=flat-square&labelColor=0D1117&color=A371F7" alt="Explore">
   </a>
-  <a href="https://aws.amazon.com/bedrock/">
-    <img src="https://img.shields.io/badge/GENERATIVE%20AI-0D1117?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Generative AI">
+  <a href="https://github.com/pranaash31">
+    <img src="https://img.shields.io/badge/EVOLVE-0D1117?style=flat-square&labelColor=0D1117&color=3FB950" alt="Evolve">
   </a>
 </p>
+
+<br>
+
+<table width="100%" cellpadding="12" cellspacing="0">
+<tr>
+
+<td width="65%" valign="top">
+
+<strong><span style="color:#58A6FF;">01</span> &nbsp; HOW I THINK</strong>
+
+<br><br>
+
+I’m drawn to problems that are difficult to define, interesting to solve, and meaningful to build.
+
+I like going beneath the surface — understanding the **data, logic, models, APIs, and system behavior** behind an idea — and then turning that understanding into something practical.
+
+For me, engineering is a continuous loop:
+
+<strong>Understand → Experiment → Build → Improve</strong>
+
+</td>
+
+<td width="35%" valign="top">
+
+<strong><span style="color:#A371F7;">02</span> &nbsp; WHAT I EXPLORE</strong>
+
+<br><br>
+
+`Generative AI`
+
+`Machine Learning`
+
+`AI Agents`
+
+`RAG`
+
+`AI Security`
+
+`Intelligent Systems`
+
+`Automation`
+
+`System Design`
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <sub>
-    <b>BUILD</b>
-    &nbsp; · &nbsp;
-    <b>LEARN</b>
-    &nbsp; · &nbsp;
-    <b>SOLVE</b>
-    &nbsp; · &nbsp;
-    <b>ENGINEER</b>
-  </sub>
+  <span style="color:#58A6FF;"><strong>CURIOUS ABOUT WHAT'S NEXT</strong></span>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <span style="color:#A371F7;"><strong>OBSESSED WITH BUILDING</strong></span>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <span style="color:#3FB950;"><strong>ALWAYS EVOLVING</strong></span>
 </p>
-
----
-
-## About Me
-
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-
-<td width="62%" valign="top">
-
-<strong>ENGINEERING IDENTITY</strong>
-
-<br><br>
-
-I'm a <strong>Software Engineer</strong> and <strong>Artificial Intelligence & Machine Learning enthusiast</strong> pursuing a B.Tech in <strong>Artificial Intelligence & Data Science</strong>.
-
-<br><br>
-
-I build intelligent and reliable software systems using <strong>Java</strong>, <strong>Python</strong>, <strong>Machine Learning</strong>, <strong>NLP</strong>, <strong>Generative AI</strong>, and <strong>backend technologies</strong>.
-
-<br><br>
-
-My interests sit at the intersection of <strong>Artificial Intelligence × Software Engineering</strong> — transforming complex problems into practical, scalable, and secure systems.
-
-<br><br>
-
-<strong>CORE FOCUS</strong>
-
-<br><br>
-
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/PYTHON-111827?style=flat-square&logo=python&logoColor=white" alt="Python">
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://img.shields.io/badge/JAVA-111827?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-111827?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning">
-</a>
-
-<a href="https://huggingface.co/">
-<img src="https://img.shields.io/badge/NLP-111827?style=flat-square&logo=huggingface&logoColor=white" alt="NLP">
-</a>
-
-<a href="https://aws.amazon.com/bedrock/">
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-111827?style=flat-square&logo=amazonaws&logoColor=white" alt="Generative AI">
-</a>
-
-<a href="https://flask.palletsprojects.com/">
-<img src="https://img.shields.io/badge/BACKEND-111827?style=flat-square&logo=flask&logoColor=white" alt="Backend">
-</a>
-
-</td>
-
-<td width="38%" valign="top" align="center">
-
-<strong>ENGINEERING SNAPSHOT</strong>
-
-<br><br>
-
-<table width="100%">
-<tr>
-
-<td align="center">
-<strong>400+</strong><br>
-<sub>LeetCode Problems</sub>
-</td>
-
-<td align="center">
-<strong>10+</strong><br>
-<sub>Platforms Automated</sub>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<strong>70%</strong><br>
-<sub>Manual Effort Reduced</sub>
-</td>
-
-<td align="center">
-<strong>&lt;100 ms</strong><br>
-<sub>Prompt Validation</sub>
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<strong>INTERESTED IN</strong>
-
-<br><br>
-
-<sub>
-NLP · LLMs · RAG · AI Agents<br>
-Semantic Similarity · AI Security<br>
-Intelligent Automation · System Design
-</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-
-<td align="center" width="33%">
-<strong>01</strong><br>
-<sub>PROBLEM SOLVING</sub><br>
-400+ LeetCode Problems
-</td>
-
-<td align="center" width="34%">
-<strong>02</strong><br>
-<sub>AI ENGINEERING</sub><br>
-NLP & Secure LLM Systems
-</td>
-
-<td align="center" width="33%">
-<strong>03</strong><br>
-<sub>SOFTWARE ENGINEERING</sub><br>
-Backend & Intelligent Systems
-</td>
-
-</tr>
-</table>
 
 
 ## Artificial Intelligence & Machine Learning Engineer
