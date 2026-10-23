@@ -2,68 +2,105 @@
 
 <p align="center">
   <br>
-  <span style="font-size:26px;">
-    <strong>Turning Ideas Into Intelligent Systems</strong>
-  </span>
+  <strong>
+    <span style="color:#58A6FF;">IDEAS</span>
+    <span style="color:#8B949E;"> → </span>
+    <span style="color:#A371F7;">EXPERIMENTS</span>
+    <span style="color:#8B949E;"> → </span>
+    <span style="color:#F778BA;">INTELLIGENCE</span>
+    <span style="color:#8B949E;"> → </span>
+    <span style="color:#3FB950;">IMPACT</span>
+  </strong>
   <br><br>
-  <span style="color:#8B949E;">
-    I build, experiment, and engineer solutions at the intersection of
-    <strong>software, data, and emerging technology.</strong>
-  </span>
+
+  <sub>
+    <strong>Building technology with curiosity, engineering with purpose.</strong>
+  </sub>
+
   <br><br>
+
   <a href="https://github.com/pranaash31">
-    <img src="https://img.shields.io/badge/BUILD-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF" alt="Build">
+    <img src="https://img.shields.io/badge/THINK-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF" height="28" alt="Think">
   </a>
   <a href="https://github.com/pranaash31">
-    <img src="https://img.shields.io/badge/EXPLORE-0D1117?style=flat-square&labelColor=0D1117&color=A371F7" alt="Explore">
+    <img src="https://img.shields.io/badge/BUILD-161B22?style=for-the-badge&labelColor=161B22&color=A371F7" height="28" alt="Build">
   </a>
   <a href="https://github.com/pranaash31">
-    <img src="https://img.shields.io/badge/EVOLVE-0D1117?style=flat-square&labelColor=0D1117&color=3FB950" alt="Evolve">
+    <img src="https://img.shields.io/badge/LEARN-161B22?style=for-the-badge&labelColor=161B22&color=F778BA" height="28" alt="Learn">
+  </a>
+  <a href="https://github.com/pranaash31">
+    <img src="https://img.shields.io/badge/EVOLVE-161B22?style=for-the-badge&labelColor=161B22&color=3FB950" height="28" alt="Evolve">
   </a>
 </p>
 
 <br>
 
-<table width="100%" cellpadding="12" cellspacing="0">
+<table width="100%" cellpadding="8" cellspacing="0">
 <tr>
 
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-<strong><span style="color:#58A6FF;">01</span> &nbsp; HOW I THINK</strong>
+<h3>
+<span style="color:#58A6FF;">◆</span> Beyond the Code
+</h3>
 
-<br><br>
+I’m interested in the space where **technology becomes a solution** — where an idea has to move beyond a concept and become something people can actually use.
 
-I’m drawn to problems that are difficult to define, interesting to solve, and meaningful to build.
+I enjoy breaking down complex problems, exploring different approaches, and building systems that combine **data, intelligence, automation, and software**.
 
-I like going beneath the surface — understanding the **data, logic, models, APIs, and system behavior** behind an idea — and then turning that understanding into something practical.
+What excites me most is the process:
 
-For me, engineering is a continuous loop:
+<br>
 
-<strong>Understand → Experiment → Build → Improve</strong>
+<p align="center">
+<strong>
+<span style="color:#58A6FF;">QUESTION</span>
+&nbsp;→&nbsp;
+<span style="color:#A371F7;">EXPLORE</span>
+&nbsp;→&nbsp;
+<span style="color:#F778BA;">BUILD</span>
+&nbsp;→&nbsp;
+<span style="color:#3FB950;">REFINE</span>
+</strong>
+</p>
 
 </td>
 
-<td width="35%" valign="top">
+<td width="38%" valign="top">
 
-<strong><span style="color:#A371F7;">02</span> &nbsp; WHAT I EXPLORE</strong>
+<h3>
+<span style="color:#A371F7;">◆</span> My Playground
+</h3>
 
-<br><br>
+<p>
+<span style="color:#58A6FF;"><strong>01</strong></span>
+&nbsp; Generative AI
+</p>
 
-`Generative AI`
+<p>
+<span style="color:#A371F7;"><strong>02</strong></span>
+&nbsp; Machine Learning
+</p>
 
-`Machine Learning`
+<p>
+<span style="color:#F778BA;"><strong>03</strong></span>
+&nbsp; AI Agents
+</p>
 
-`AI Agents`
+<p>
+<span style="color:#3FB950;"><strong>04</strong></span>
+&nbsp; RAG Systems
+</p>
 
-`RAG`
+<p>
+<span style="color:#F0883E;"><strong>05</strong></span>
+&nbsp; AI Security
+</p>
 
-`AI Security`
-
-`Intelligent Systems`
-
-`Automation`
-
-`System Design`
+<p>
+<span style="color:#79C0FF;"><strong>06</strong></span>
+&nbsp; Intelligent Applications
+</p>
 
 </td>
 
@@ -73,13 +110,18 @@ For me, engineering is a continuous loop:
 <br>
 
 <p align="center">
-  <span style="color:#58A6FF;"><strong>CURIOUS ABOUT WHAT'S NEXT</strong></span>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <span style="color:#A371F7;"><strong>OBSESSED WITH BUILDING</strong></span>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <span style="color:#3FB950;"><strong>ALWAYS EVOLVING</strong></span>
+  <strong>
+    <span style="color:#58A6FF;">CURIOUS ENOUGH TO EXPLORE.</span>
+    <span style="color:#A371F7;"> BOLD ENOUGH TO BUILD.</span>
+    <span style="color:#3FB950;"> HUMBLE ENOUGH TO KEEP LEARNING.</span>
+  </strong>
 </p>
 
+<p align="center">
+  <sub>
+    <i>Not just writing code — understanding why it should exist.</i>
+  </sub>
+</p>
 
 ## Artificial Intelligence & Machine Learning Engineer
 
