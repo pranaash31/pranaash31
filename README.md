@@ -1,15 +1,124 @@
 <img width="1223" height="348" alt="Sakthi Pranaash V" src="https://github.com/pranaash31/pranaash31/blob/main/wallie.png" />
 
-Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine Learning enthusiast pursuing a B.Tech in Artificial Intelligence & Data Science. He has hands-on experience in Machine Learning, NLP, Generative AI, backend engineering, intelligent automation, and secure AI systems. He enjoys solving complex problems, building practical systems, and continuously improving his engineering skills through real-world development and technical challenges.
+<p align="center">
+  <a href="https://github.com/pranaash31">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+AI+%26+ML+Enthusiast;Building+Intelligent+%7C+Secure+%7C+Scalable+Systems;Machine+Learning+%7C+NLP+%7C+Generative+AI+%7C+Backend" alt="Typing Introduction">
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    <b>ARTIFICIAL INTELLIGENCE</b>
+    &nbsp;•&nbsp;
+    <b>SOFTWARE ENGINEERING</b>
+    &nbsp;•&nbsp;
+    <b>INNOVATION</b>
+  </sub>
+</p>
+
+<p align="center">
+  <strong>Engineering intelligent systems that turn complex problems into practical solutions.</strong>
+</p>
+
+<br>
 
 ## About Me
 
-- I'm a Software Engineer focused on building intelligent and reliable software systems using Java, Python, Machine Learning, NLP, Generative AI, and backend technologies.
-- I have hands-on experience building NLP pipelines using Sentence Transformers and Scikit-learn, including systems for skill extraction, recommendation generation, prompt injection detection, and jailbreak detection.
-- I've worked on an automated job intelligence pipeline aggregating opportunities from 10+ recruitment platforms, reducing manual job discovery effort by 70%.
-- I enjoy solving challenging programming problems and have solved 400+ problems on LeetCode while continuously strengthening my Data Structures and Algorithms fundamentals.
-- I'm interested in the intersection of Artificial Intelligence and Software Engineering, particularly systems that transform complex problems into practical and scalable solutions.
-- I enjoy participating in hackathons, technical communities, and collaborative engineering environments where I can learn, contribute, and build.
+<table width="100%">
+<tr>
+
+<td width="58%" valign="top">
+
+### <samp>WHO I AM</samp>
+
+I'm a **Software Engineer** and **AI/ML enthusiast** pursuing a B.Tech in **Artificial Intelligence & Data Science**.
+
+I enjoy working at the intersection of **Artificial Intelligence × Software Engineering**, with a focus on building systems that are intelligent, reliable, and practical.
+
+<br>
+
+### <samp>WHAT I BUILD</samp>
+
+• **Machine Learning & NLP** — semantic understanding, classification, skill extraction, and recommendation systems.
+
+• **Generative AI** — LLM applications, RAG pipelines, prompt engineering, and intelligent agents.
+
+• **AI Security** — prompt injection and jailbreak detection for secure LLM applications.
+
+• **Backend Engineering** — APIs, inference services, automation pipelines, and scalable application logic.
+
+</td>
+
+<td width="42%" valign="top" align="center">
+
+### <samp>ENGINEERING FOCUS</samp>
+
+<br>
+
+`MACHINE LEARNING`
+
+`NLP`
+
+`GENERATIVE AI`
+
+`LLM SECURITY`
+
+`RAG`
+
+`AI AGENTS`
+
+`BACKEND`
+
+`AUTOMATION`
+
+<br><br>
+
+### <samp>PROBLEM SOLVING</samp>
+
+<br>
+
+<b>400+</b><br>
+<sub>LeetCode Problems Solved</sub>
+
+<br><br>
+
+<b>10+</b><br>
+<sub>Recruitment Platforms Automated</sub>
+
+<br><br>
+
+<b>&lt;100 ms</b><br>
+<sub>LLM Prompt Validation Inference</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <sub>
+    <b>JAVA</b> &nbsp;·&nbsp;
+    <b>PYTHON</b> &nbsp;·&nbsp;
+    <b>SCIKIT-LEARN</b> &nbsp;·&nbsp;
+    <b>SENTENCE TRANSFORMERS</b> &nbsp;·&nbsp;
+    <b>FLASK</b> &nbsp;·&nbsp;
+    <b>GENERATIVE AI</b>
+  </sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pranaash31">
+    <img src="https://img.shields.io/badge/BUILDING-0D1117?style=flat-square" alt="Building">
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LEARNING-0D1117?style=flat-square" alt="Learning">
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/EXPLORING-0D1117?style=flat-square" alt="Exploring">
+  </a>
+</p>
 
 ## Artificial Intelligence & Machine Learning Engineer
 
