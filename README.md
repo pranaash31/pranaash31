@@ -4,28 +4,7 @@ Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine L
 
 ## About Me
 
-I turn ideas into intelligent applications — from learning patterns in data to building AI systems that can reason, retrieve information, and take action.
-
-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> **Python-first development** — building solutions across machine learning, intelligent applications, and AI-powered workflows.
-
-- <img src="https://img.shields.io/badge/ML%20%2F%20DL-8957E5?style=flat-square" alt="Machine Learning and Deep Learning"> **Machine Learning & Deep Learning** — exploring model development, neural networks, representation learning, and practical model evaluation.
-
-- <img src="https://img.shields.io/badge/GENERATIVE%20AI-0D9488?style=flat-square" alt="Generative AI"> **Generative AI & LLMs** — building applications around language models, retrieval-augmented generation (RAG), embeddings, and prompt engineering.
-
-- <img src="https://img.shields.io/badge/AGENTIC%20AI-E87524?style=flat-square" alt="Agentic AI"> **AI Agents & Agentic Systems** — exploring tool use, multi-step task execution, context management, and workflows that coordinate models with external systems.
-
-- <img src="https://img.shields.io/badge/AI%20SECURITY-238636?style=flat-square" alt="AI Security"> **AI Security** — developing safeguards for LLM applications, including prompt-injection and jailbreak detection.
-
-- <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0969DA?style=flat-square" alt="Problem Solving"> **Engineering mindset** — solving 400+ LeetCode problems and applying structured problem-solving to real-world projects.
-
-<br>
-
-<p align="center">
-  <strong>DATA → MODELS → INTELLIGENCE → ACTION</strong>
-</p>
-<p align="center">
-  <sub>Building beyond the prompt — toward AI systems that deliver useful outcomes.</sub>
-</p>
+- I'm a Python expert focused on mastering Machine Learning, Deep Learning, Generative AI, AI Agents, and Agentic AI.
 
 ## Artificial Intelligence & Machine Learning Engineer
 
