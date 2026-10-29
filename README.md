@@ -4,7 +4,7 @@ Sakthi Pranaash V is a Software Engineer and Artificial Intelligence & Machine L
 
 ## About Me
 
-- I'm a Python expert focused on mastering Machine Learning, Deep Learning, Generative AI, AI Agents, and Agentic AI.
+- I'm a <a href="https://www.hackerrank.com/domains/python?badge_type=python"><img src="https://img.shields.io/badge/Python%20Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Expert"></a> focused on mastering Machine Learning, Deep Learning, Generative AI, AI Agents, and Agentic AI.
 
 ## Artificial Intelligence & Machine Learning Engineer
 
