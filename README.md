@@ -1,6 +1,6 @@
 <img width="1223" height="348" alt="Sakthi Pranaash V" src="https://github.com/pranaash31/pranaash31/blob/main/wallie.png" />
 
-Sakthi Pranaash V works across applied AI, software engineering, and cloud technologies. With over two years of experience, he actively engages with the [Kaggle data science community](https://www.kaggle.com/), the [Hugging Face open-source AI ecosystem](https://huggingface.co/), and the [AWS Builder Center](https://builder.aws.com/), contributing to collaborative engineering initiatives.
+Sakthi Pranaash V works across applied AI, software engineering, and cloud technologies. With over two years of experience, he actively engages with the [Kaggle data science community](https://www.kaggle.com/pranaashh31), the [Hugging Face open-source AI ecosystem](https://huggingface.co/pranaash31), and the [AWS Builder Center](https://builder.aws.com/profile?tab=badges), contributing to collaborative engineering initiatives.
 
 ## About Me
 
