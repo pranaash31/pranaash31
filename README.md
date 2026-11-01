@@ -6,7 +6,7 @@ Sakthi Pranaash V works across applied AI, software engineering, and cloud techn
 
 - I'm a [Python expert](https://www.hackerrank.com/domains/python?badge_type=python) focused on mastering Machine Learning, Deep Learning, Generative AI, AI Agents, and Agentic AI.
 - Building [UNSEEN](https://github.com/pranaash31/UNSEEN) — a modular Digital Forensics and Incident Response (DFIR) platform bringing digital investigations, forensic analysis, and incident response together.
-- I thrive in *competitive innovation spaces*, taking part in high-level hackathons, engineering challenges and technology competitions with multiple recognitions and finalist achievements.
+- - ~~I thrive in *competitive innovation spaces*, taking part in *high-level hackathons, engineering challenges, and technology competitions*, with multiple recognitions and finalist achievements.~~
 
 ## Artificial Intelligence & Machine Learning Engineer
 
