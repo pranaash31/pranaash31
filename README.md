@@ -11,11 +11,7 @@ Sakthi Pranaash V works across applied AI, software engineering, and cloud techn
 
 ## Artificial Intelligence & Machine Learning Engineer
 
-My work in AI and Machine Learning focuses on applying intelligent techniques to practical engineering problems. At Appin Technologies, I built an automated job intelligence pipeline and developed an NLP engine using Sentence Transformers to extract technical skills and generate personalized learning recommendations.
 
-At Gradtwin, I developed an NLP security pipeline using Sentence Transformers and Scikit-learn to detect prompt injection and jailbreak attacks. I also built a Flask inference API with confidence scoring for secure LLM prompt validation with inference under 100 ms.
-
-I'm particularly interested in NLP, Generative AI, Retrieval-Augmented Generation, intelligent agents, semantic similarity, and AI security.
 
 ## Technical Achievements
 
