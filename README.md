@@ -19,8 +19,6 @@ I was a finalist at Smart India Hackathon 2024 and achieved Top 5 at MEDHA Natio
 
 I have solved 400+ problems on LeetCode and earned a Silver Badge in Java on HackerRank.
 
-These experiences have strengthened my problem-solving ability, technical depth, teamwork, and ability to perform under challenging constraints.
-
 ## Technical Leadership and Profile
 
 <table width="100%" cellpadding="0" cellspacing="0">
