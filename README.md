@@ -172,6 +172,3 @@ I'm looking for opportunities where I can work on meaningful engineering problem
 If you're working on an interesting engineering problem, building something ambitious, or looking for someone who enjoys learning by building, I'd be glad to connect.
 
 [![Email](https://img.shields.io/badge/Email-sakthipranaash31%40gmail.com-8A2BE2.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthipranaash31@gmail.com)
-
-
-now we;ve done thee section now we can focus on the intro section, about me , now we need to make it super attractive stylish techie, and suepr one, that should be super attractive and top notch one, use stylish fonts hyper links, and super atttractive one
