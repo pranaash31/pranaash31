@@ -167,8 +167,4 @@ I'm continuously strengthening my software engineering fundamentals while explor
 
 I'm looking for opportunities where I can work on meaningful engineering problems, learn from strong teams, contribute technically, and grow into a well-rounded Software Engineer.
 
-## Let's Connect
 
-If you're working on an interesting engineering problem, building something ambitious, or looking for someone who enjoys learning by building, I'd be glad to connect.
-
-[![Email](https://img.shields.io/badge/Email-sakthipranaash31%40gmail.com-8A2BE2.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthipranaash31@gmail.com)
