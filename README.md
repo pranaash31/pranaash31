@@ -166,6 +166,8 @@ Cybersecurity Certificate
 I'm continuously strengthening my software engineering fundamentals while exploring AI/ML, Generative AI, backend systems, system design, and intelligent applications.
 
 
+I'm looking for opportunities where I can work on meaningful engineering problems, learn from strong teams, contribute technically, and grow into a well-rounded Software Engineer.
+
 ## Let's Connect
 
 If you're working on an interesting engineering problem, building something ambitious, or looking for someone who enjoys learning by building, I'd be glad to connect.
